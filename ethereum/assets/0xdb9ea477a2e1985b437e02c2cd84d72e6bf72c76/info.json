@@ -1,0 +1,12 @@
+{
+  "name": "Dabdragon Tokens",
+  "symbol": "DABER",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xDB9EA477A2E1985B437e02c2Cd84d72E6Bf72c76",
+  "mint_time": "2020-10-05 19:59:02 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xdb9ea477a2e1985b437e02c2cd84d72e6bf72c76/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

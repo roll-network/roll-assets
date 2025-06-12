@@ -1,0 +1,12 @@
+{
+  "name": "mZ",
+  "symbol": "MZ",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x7A639e580Ef90e9B19570f25D369E00d71a9e793",
+  "mint_time": "2019-12-16 01:19:24 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x7a639e580ef90e9b19570f25d369e00d71a9e793/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

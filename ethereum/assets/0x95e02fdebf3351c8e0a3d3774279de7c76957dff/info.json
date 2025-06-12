@@ -1,0 +1,12 @@
+{
+  "name": "LIFT",
+  "symbol": "LIFT",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x95E02fDebF3351C8E0A3d3774279DE7c76957DFF",
+  "mint_time": "2022-08-15 03:54:05 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x95e02fdebf3351c8e0a3d3774279de7c76957dff/logo.png",
+  "vesting_address": "0xAD92563142fC89b6db0C92557036cC6ae147c1cc",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

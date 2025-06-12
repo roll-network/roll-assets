@@ -1,0 +1,12 @@
+{
+  "name": "Matter",
+  "symbol": "MTTR",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x2eB45d1F11329A6236A79EA35679Ab741DaA5200",
+  "mint_time": "2020-02-28 13:54:55 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x2eb45d1f11329a6236a79ea35679ab741daa5200/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

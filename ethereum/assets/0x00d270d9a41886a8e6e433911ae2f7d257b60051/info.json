@@ -1,0 +1,12 @@
+{
+  "name": "BUZZ",
+  "symbol": "BUZZ",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x00D270d9A41886A8E6E433911AE2F7D257b60051",
+  "mint_time": "2019-11-21 03:42:52 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x00d270d9a41886a8e6e433911ae2f7d257b60051/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

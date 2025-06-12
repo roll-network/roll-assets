@@ -1,0 +1,12 @@
+{
+  "name": "Prosperity Coin",
+  "symbol": "PRC",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x755FD7B8A3792191b12E716b500eCDe75001F843",
+  "mint_time": "2022-07-11 01:51:13 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x755fd7b8a3792191b12e716b500ecde75001f843/logo.png",
+  "vesting_address": "0x83514dFF8D5B76A49D8fc1d7064a1B46d832A7F3",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

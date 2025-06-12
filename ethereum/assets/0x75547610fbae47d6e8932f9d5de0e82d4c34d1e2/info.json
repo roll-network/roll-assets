@@ -1,0 +1,12 @@
+{
+  "name": "Maize",
+  "symbol": "MAIZE",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x75547610FbaE47d6E8932F9d5dE0e82D4C34d1e2",
+  "mint_time": "2022-01-31 07:28:12 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x75547610fbae47d6e8932f9d5de0e82d4c34d1e2/logo.png",
+  "vesting_address": "0xAbd31D1FD8689e45c4D95Fd0403d9099C5E14697",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

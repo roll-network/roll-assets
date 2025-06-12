@@ -1,0 +1,12 @@
+{
+  "name": "BELY",
+  "symbol": "BELY",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xFa671c8087b8D1b2a3A95851128D507C4ca7D166",
+  "mint_time": "2022-03-07 04:59:33 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xfa671c8087b8d1b2a3a95851128d507c4ca7d166/logo.png",
+  "vesting_address": "0x89423eC2C46Cf140B7C2e8Df5E5E730867629788",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

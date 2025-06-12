@@ -1,0 +1,12 @@
+{
+  "name": "Carlos",
+  "symbol": "CARLOS",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x4238098E9372E7b5DE2d6aF2F2Ed9EE34e183edE",
+  "mint_time": "2020-05-15 22:31:29 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x4238098e9372e7b5de2d6af2f2ed9ee34e183ede/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

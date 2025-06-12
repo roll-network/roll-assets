@@ -1,0 +1,12 @@
+{
+  "name": "Talk byTBA",
+  "symbol": "TALK",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x6a7cC3ecdf68aAef263be3a3f1703940d9Fef6e7",
+  "mint_time": "2022-07-18 06:58:24 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x6a7cc3ecdf68aaef263be3a3f1703940d9fef6e7/logo.png",
+  "vesting_address": "0xDcED98E3bf1d7D03cc147EaE701713F4E5A19C01",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

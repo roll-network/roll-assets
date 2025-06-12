@@ -1,0 +1,12 @@
+{
+  "name": "BitByBit",
+  "symbol": "BBB",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x85C5E28c1f4612FacE2Fb41bb1886824Cd5dCd02",
+  "mint_time": "2020-04-10 01:20:52 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x85c5e28c1f4612face2fb41bb1886824cd5dcd02/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

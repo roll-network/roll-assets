@@ -1,0 +1,12 @@
+{
+  "name": "MrBitcoin",
+  "symbol": "MRBTC",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xa548EDDd1284Bf772A465f7405539FC1b358cB91",
+  "mint_time": "2022-09-19 04:06:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xa548eddd1284bf772a465f7405539fc1b358cb91/logo.png",
+  "vesting_address": "0xCF86D6aC2Ea19896851b7bDE0c0Bbd57ed74EaDa",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

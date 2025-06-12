@@ -1,0 +1,12 @@
+{
+  "name": "VEGANADALU",
+  "symbol": "DALU",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x778890AB0d360DBF80Ea55d5DD27798C8be265Cb",
+  "mint_time": "2022-12-12 05:51:23 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x778890ab0d360dbf80ea55d5dd27798c8be265cb/logo.png",
+  "vesting_address": "0x53C44f1ED6a90ba6221aB7Fa168aA4BA55527d71",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

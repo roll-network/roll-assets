@@ -1,0 +1,12 @@
+{
+  "name": "Fringe Founders",
+  "symbol": "FF",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x99AC18210cA67BEA27bb14B25ab76162315E9E16",
+  "mint_time": "2022-10-03 11:36:47 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x99ac18210ca67bea27bb14b25ab76162315e9e16/logo.png",
+  "vesting_address": "0xB4D8B71e55F1a5bA89aCa6FC3405114321a43b23",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

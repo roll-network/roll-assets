@@ -1,0 +1,12 @@
+{
+  "name": "Democracy Tokens",
+  "symbol": "DD",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x98A02e9808a0aE1830Db4Eb825A84F78a64d4586",
+  "mint_time": "2022-09-12 03:40:08 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x98a02e9808a0ae1830db4eb825a84f78a64d4586/logo.png",
+  "vesting_address": "0xf9bbE3eD8A70DAa2f648e8F0a6fAF9F021442Ce1",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

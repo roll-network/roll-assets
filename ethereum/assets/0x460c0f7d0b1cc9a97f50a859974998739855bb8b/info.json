@@ -1,0 +1,12 @@
+{
+  "name": "NVNTIVZ",
+  "symbol": "NVNTZ",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x460C0f7D0B1cc9A97F50A859974998739855BB8b",
+  "mint_time": "2022-08-08 03:16:31 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x460c0f7d0b1cc9a97f50a859974998739855bb8b/logo.png",
+  "vesting_address": "0x5eE955D22b82766Dfd533e52c4DF4a8b1a3613D5",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

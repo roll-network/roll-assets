@@ -1,0 +1,12 @@
+{
+  "name": "Insight DeFi",
+  "symbol": "INFI",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xE6d49B80705100542399BbEb6c23543f2342F295",
+  "mint_time": "2022-01-18 06:43:48 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xe6d49b80705100542399bbeb6c23543f2342f295/logo.png",
+  "vesting_address": "0x3F507b60A67Bee5130bb5C366b72269008340391",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

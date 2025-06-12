@@ -1,0 +1,12 @@
+{
+  "name": "Pentacles",
+  "symbol": "PNTCL",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x7deD07692e27B7b15Cb665666c7Fcd06417F9110",
+  "mint_time": "2020-06-20 03:42:53 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x7ded07692e27b7b15cb665666c7fcd06417f9110/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

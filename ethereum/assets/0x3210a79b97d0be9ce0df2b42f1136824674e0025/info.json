@@ -1,0 +1,12 @@
+{
+  "name": "Para",
+  "symbol": "PARA",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x3210A79B97D0BE9ce0dF2B42F1136824674E0025",
+  "mint_time": "2023-02-13 04:41:23 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x3210a79b97d0be9ce0df2b42f1136824674e0025/logo.png",
+  "vesting_address": "0x9dc7f3eba0026a7A86b1349a4aB1c6940305Fd42",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

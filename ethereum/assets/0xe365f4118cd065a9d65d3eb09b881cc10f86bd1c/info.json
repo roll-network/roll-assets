@@ -1,0 +1,12 @@
+{
+  "name": "Happy Me Happy We",
+  "symbol": "HMHW",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xe365F4118CD065A9D65d3eB09b881Cc10f86Bd1c",
+  "mint_time": "2022-12-19 02:35:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xe365f4118cd065a9d65d3eb09b881cc10f86bd1c/logo.png",
+  "vesting_address": "0x9270Ba23E32d04E70556c06C76E271F817801e61",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

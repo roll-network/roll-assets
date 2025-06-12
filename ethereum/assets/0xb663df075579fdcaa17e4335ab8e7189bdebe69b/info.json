@@ -1,0 +1,12 @@
+{
+  "name": "NARCO",
+  "symbol": "NARCO",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xB663DF075579FdCAA17E4335aB8E7189BdEBe69b",
+  "mint_time": "2020-11-04 19:53:44 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xb663df075579fdcaa17e4335ab8e7189bdebe69b/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

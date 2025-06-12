@@ -1,0 +1,12 @@
+{
+  "name": "TIO",
+  "symbol": "TIO",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x6b8FBF3fcA80FDD7385cc049E03b0443E7aFa290",
+  "mint_time": "2020-11-23 01:13:43 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x6b8fbf3fca80fdd7385cc049e03b0443e7afa290/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

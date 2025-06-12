@@ -1,0 +1,12 @@
+{
+  "name": "TraderSquare",
+  "symbol": "TRS",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x1Ef4d930097D30689B16945Aa8286C62Ce7f75dF",
+  "mint_time": "2020-11-19 23:35:30 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x1ef4d930097d30689b16945aa8286c62ce7f75df/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "JACOB",
+  "symbol": "JACOB",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xD716905047C61d92Ef634F97D3D746747C08448A",
+  "mint_time": "2020-01-14 21:09:37 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xd716905047c61d92ef634f97d3d746747c08448a/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

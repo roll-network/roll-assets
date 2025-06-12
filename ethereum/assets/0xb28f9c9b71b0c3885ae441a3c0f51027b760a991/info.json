@@ -1,0 +1,12 @@
+{
+  "name": "MADCAP",
+  "symbol": "MADCAP",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xb28f9C9B71B0C3885AE441A3c0F51027b760a991",
+  "mint_time": "2020-02-06 17:55:40 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xb28f9c9b71b0c3885ae441a3c0f51027b760a991/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

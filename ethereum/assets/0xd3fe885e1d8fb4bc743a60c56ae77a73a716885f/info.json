@@ -1,0 +1,12 @@
+{
+  "name": "Story Tokens",
+  "symbol": "STORY",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xD3fe885E1d8fB4bC743a60C56aE77A73a716885f",
+  "mint_time": "2023-01-30 05:43:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xd3fe885e1d8fb4bc743a60c56ae77a73a716885f/logo.png",
+  "vesting_address": "0xadfB8c70575b6Be951C9A47893Ea82Cff4D6c999",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

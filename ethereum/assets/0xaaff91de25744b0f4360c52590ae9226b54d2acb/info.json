@@ -1,0 +1,12 @@
+{
+  "name": "KAMES",
+  "symbol": "KCG",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xaAfF91De25744B0f4360c52590aE9226b54D2acB",
+  "mint_time": "2020-03-23 19:57:04 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xaaff91de25744b0f4360c52590ae9226b54d2acb/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Sushen's Attention Token",
+  "symbol": "SUSH",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xC2579552eCb8e7c001564cE0e8E0DB77a0587E0e",
+  "mint_time": "2020-05-03 03:58:36 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xc2579552ecb8e7c001564ce0e8e0db77a0587e0e/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

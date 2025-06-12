@@ -1,0 +1,12 @@
+{
+  "name": "TOBI",
+  "symbol": "TOBI",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x32066bc42b8CF844baCDD3F7479a90498baa9768",
+  "mint_time": "2022-02-28 15:42:30 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x32066bc42b8cf844bacdd3f7479a90498baa9768/logo.png",
+  "vesting_address": "0x0dF0CCb49cF60F5E1AA6f9226f492d8Eff4CC64A",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Harto ",
+  "symbol": "HARTO",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x032866133277D318Bba653cDDe8Dc34E124322c9",
+  "mint_time": "2022-11-21 10:51:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x032866133277d318bba653cdde8dc34e124322c9/logo.png",
+  "vesting_address": "0x15bb67cdc7893fE9C6C98872A81a3d4B1218E5A9",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

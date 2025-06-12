@@ -1,0 +1,12 @@
+{
+  "name": "Code Boy ",
+  "symbol": "CODE",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x0e47F671c9245E794102D3A1656C963DB535eE0A",
+  "mint_time": "2022-09-25 16:38:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x0e47f671c9245e794102d3a1656c963db535ee0a/logo.png",
+  "vesting_address": "0x88B6298F8B0B8548ceC2FcD6Dd8B0385F73Cb33e",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

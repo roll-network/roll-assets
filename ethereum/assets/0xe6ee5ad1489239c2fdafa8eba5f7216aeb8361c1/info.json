@@ -1,0 +1,12 @@
+{
+  "name": "World Changer ",
+  "symbol": "WCC",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xe6Ee5aD1489239C2FDaFA8eBa5F7216aEb8361c1",
+  "mint_time": "2022-07-25 13:28:13 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xe6ee5ad1489239c2fdafa8eba5f7216aeb8361c1/logo.png",
+  "vesting_address": "0xcF96364aF39fB79F0c4Ed460371380b08bA4F365",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

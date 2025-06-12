@@ -1,0 +1,12 @@
+{
+  "name": "Tingles",
+  "symbol": "TING",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xd1B183f425F7E6A0C83aB1cd84cFDE2d84Ba049d",
+  "mint_time": "2019-07-10 23:50:13 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xd1b183f425f7e6a0c83ab1cd84cfde2d84ba049d/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Resilience Coin",
+  "symbol": "RC",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x1c195B7E38f5Da317D2af9121F1639DB2Bdf6C27",
+  "mint_time": "2023-02-27 06:25:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x1c195b7e38f5da317d2af9121f1639db2bdf6c27/logo.png",
+  "vesting_address": "0x4e816545649b7390167E854835C188381F0A48C7",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

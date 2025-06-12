@@ -1,0 +1,12 @@
+{
+  "name": "GATS",
+  "symbol": "GATS",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x4bA93f83b131C2450D5bC1982E3F2a1751Aa8E41",
+  "mint_time": "2019-11-21 04:31:41 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x4ba93f83b131c2450d5bc1982e3f2a1751aa8e41/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

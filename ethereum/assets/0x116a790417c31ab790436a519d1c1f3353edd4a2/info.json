@@ -1,0 +1,12 @@
+{
+  "name": "Trip",
+  "symbol": "TRIP",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x116a790417c31Ab790436A519D1C1F3353Edd4a2",
+  "mint_time": "2020-09-20 18:42:06 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x116a790417c31ab790436a519d1c1f3353edd4a2/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

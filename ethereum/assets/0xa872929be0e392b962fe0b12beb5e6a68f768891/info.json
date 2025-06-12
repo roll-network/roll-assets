@@ -1,0 +1,12 @@
+{
+  "name": "BSB",
+  "symbol": "BSB",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xA872929bE0e392b962fE0b12BEb5e6A68f768891",
+  "mint_time": "2022-12-19 02:28:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xa872929be0e392b962fe0b12beb5e6a68f768891/logo.png",
+  "vesting_address": "0x18Cb89a9d93b806fb52382C314968F234eB58F2e",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

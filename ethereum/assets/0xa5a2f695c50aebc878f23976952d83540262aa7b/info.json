@@ -1,0 +1,12 @@
+{
+  "name": "RBN",
+  "symbol": "RBN",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xA5a2F695C50AeBC878F23976952D83540262aA7B",
+  "mint_time": "2022-10-17 14:05:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xa5a2f695c50aebc878f23976952d83540262aa7b/logo.png",
+  "vesting_address": "0x2521C6E8a0eb1bf9E7E761f5C1914363BD52A348",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

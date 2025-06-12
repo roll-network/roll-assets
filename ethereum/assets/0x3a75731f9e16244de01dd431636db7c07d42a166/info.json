@@ -1,0 +1,12 @@
+{
+  "name": "Bones",
+  "symbol": "BONES",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x3A75731f9e16244dE01DD431636Db7c07D42A166",
+  "mint_time": "2020-04-16 19:18:07 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x3a75731f9e16244de01dd431636db7c07d42a166/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

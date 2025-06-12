@@ -1,0 +1,12 @@
+{
+  "name": "FOOD",
+  "symbol": "FOOD",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xF2C7F3d108f228DC258D4C917Be1160f0c41C9D3",
+  "mint_time": "2023-02-06 05:45:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xf2c7f3d108f228dc258d4c917be1160f0c41c9d3/logo.png",
+  "vesting_address": "0xfFB1c7d2f17cc4293a1b11fA8032184327ec0237",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

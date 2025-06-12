@@ -1,0 +1,12 @@
+{
+  "name": "MIGLIA",
+  "symbol": "MIGLIA",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x10d38217686A8c44f10b43706f4e828f59C72Af9",
+  "mint_time": "2023-04-24 08:30:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x10d38217686a8c44f10b43706f4e828f59c72af9/logo.png",
+  "vesting_address": "0x6c2DB0Bc722da36c52eb58A7eEad2856651fd7C8",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

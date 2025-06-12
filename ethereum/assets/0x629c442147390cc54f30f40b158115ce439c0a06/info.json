@@ -1,0 +1,12 @@
+{
+  "name": "Groovypedia",
+  "symbol": "GROOVY",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x629C442147390CC54f30f40b158115Ce439C0A06",
+  "mint_time": "2022-01-09 07:48:56 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x629c442147390cc54f30f40b158115ce439c0a06/logo.png",
+  "vesting_address": "0x513eEC6EEd6037D933A0Af42c1872C9faEf22089",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

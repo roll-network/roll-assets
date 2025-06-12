@@ -1,0 +1,12 @@
+{
+  "name": "PRESI",
+  "symbol": "PRES",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x261e4f4e6de4E3e752dF1D967679147f7f6FcF53",
+  "mint_time": "2023-01-09 06:35:23 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x261e4f4e6de4e3e752df1d967679147f7f6fcf53/logo.png",
+  "vesting_address": "0xacd0a6471F3B69Dc49452a167e68dbB297444aD0",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

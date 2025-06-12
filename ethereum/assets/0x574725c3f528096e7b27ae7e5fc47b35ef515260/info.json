@@ -1,0 +1,12 @@
+{
+  "name": "Petra",
+  "symbol": "PTR",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x574725c3f528096e7b27Ae7e5FC47b35eF515260",
+  "mint_time": "2020-07-08 21:26:02 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x574725c3f528096e7b27ae7e5fc47b35ef515260/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

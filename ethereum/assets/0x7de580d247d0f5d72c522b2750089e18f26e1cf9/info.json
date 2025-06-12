@@ -1,0 +1,12 @@
+{
+  "name": "MadCripto",
+  "symbol": "MAD",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x7DE580D247D0f5d72c522b2750089E18f26e1cF9",
+  "mint_time": "2020-09-20 19:32:20 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x7de580d247d0f5d72c522b2750089e18f26e1cf9/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

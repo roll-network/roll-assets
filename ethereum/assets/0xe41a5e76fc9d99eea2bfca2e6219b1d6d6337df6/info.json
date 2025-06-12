@@ -1,0 +1,12 @@
+{
+  "name": "Affirmation",
+  "symbol": "AFF",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xe41A5e76Fc9D99EeA2bfca2e6219B1D6D6337df6",
+  "mint_time": "2021-01-20 22:02:38 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xe41a5e76fc9d99eea2bfca2e6219b1d6d6337df6/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

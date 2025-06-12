@@ -1,0 +1,12 @@
+{
+  "name": "All The Smoke",
+  "symbol": "ATS",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xE5f55a3b74874531a99359b833b92866A6609f6B",
+  "mint_time": "2020-07-21 15:44:24 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xe5f55a3b74874531a99359b833b92866a6609f6b/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

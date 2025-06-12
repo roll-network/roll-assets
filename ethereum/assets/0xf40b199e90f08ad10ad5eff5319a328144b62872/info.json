@@ -1,0 +1,12 @@
+{
+  "name": "GEESE",
+  "symbol": "GEESE",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xf40b199e90F08ad10AD5eff5319a328144b62872",
+  "mint_time": "2022-04-20 04:02:50 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xf40b199e90f08ad10ad5eff5319a328144b62872/logo.png",
+  "vesting_address": "0xCa61B6ff51BFE200b00190a9a6Ecb2DB4437aa77",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

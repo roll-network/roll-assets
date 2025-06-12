@@ -1,0 +1,12 @@
+{
+  "name": "The Bitcoin Family",
+  "symbol": "FAMILY",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x833E4c02c47B7e38f5b9A80b26eb07D23d1961f4",
+  "mint_time": "2020-10-05 23:14:53 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x833e4c02c47b7e38f5b9a80b26eb07d23d1961f4/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Vakseen",
+  "symbol": "VKSN",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x1aD31578e6E352f2A01f5ED5810d51DA9CCEF9FC",
+  "mint_time": "2021-02-26 02:41:01 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x1ad31578e6e352f2a01f5ed5810d51da9ccef9fc/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

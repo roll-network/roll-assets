@@ -1,0 +1,12 @@
+{
+  "name": "CORP",
+  "symbol": "CORP",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xaDB2B13f0b145Df35e050b76293CbB4Ed021a2c4",
+  "mint_time": "2022-07-11 01:43:44 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xadb2b13f0b145df35e050b76293cbb4ed021a2c4/logo.png",
+  "vesting_address": "0xb53EAf3F3632115C0972783F71DE3F480c200c4b",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

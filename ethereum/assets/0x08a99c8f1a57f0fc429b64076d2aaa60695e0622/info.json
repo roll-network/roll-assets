@@ -1,0 +1,12 @@
+{
+  "name": "EGGZO",
+  "symbol": "EGZ",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x08a99c8f1A57F0Fc429B64076d2aaa60695E0622",
+  "mint_time": "2023-03-27 15:22:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x08a99c8f1a57f0fc429b64076d2aaa60695e0622/logo.png",
+  "vesting_address": "0x53D60c37DF789F6a9Ee5A615997f048983B9c5A1",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

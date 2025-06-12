@@ -1,0 +1,12 @@
+{
+  "name": "Electric Bare",
+  "symbol": "EBARE",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x706D6C5B1F925233BB1F634e56d52c0ED2929e3a",
+  "mint_time": "2020-12-18 22:41:22 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x706d6c5b1f925233bb1f634e56d52c0ed2929e3a/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "LIGHT",
+  "symbol": "LIGHT",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xe4972F4709fC4CD471Ba4c65b4B47BF00Da8d6AC",
+  "mint_time": "2023-02-27 06:21:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xe4972f4709fc4cd471ba4c65b4b47bf00da8d6ac/logo.png",
+  "vesting_address": "0x31f9b5a59BE720e14f3d08b2077f9B32bDe3A62d",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

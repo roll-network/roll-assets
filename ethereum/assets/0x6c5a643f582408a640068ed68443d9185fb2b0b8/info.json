@@ -1,0 +1,12 @@
+{
+  "name": "EGGS",
+  "symbol": "EGGS",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x6C5A643F582408a640068Ed68443D9185Fb2b0B8",
+  "mint_time": "2020-05-02 23:30:34 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x6c5a643f582408a640068ed68443d9185fb2b0b8/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

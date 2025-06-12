@@ -1,0 +1,12 @@
+{
+  "name": "BUENO",
+  "symbol": "BUENO",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xeBdc98eDD7304F40409d36c1381B66081151Cac7",
+  "mint_time": "2023-07-24 06:02:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xebdc98edd7304f40409d36c1381b66081151cac7/logo.png",
+  "vesting_address": "0x6d79bF03f67c66bc74c6057869432934A2D869A6",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

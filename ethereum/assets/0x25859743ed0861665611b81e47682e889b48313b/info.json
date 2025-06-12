@@ -1,0 +1,12 @@
+{
+  "name": "Yumi",
+  "symbol": "YUMI",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x25859743ED0861665611B81E47682e889b48313B",
+  "mint_time": "2019-11-04 00:39:46 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x25859743ed0861665611b81e47682e889b48313b/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

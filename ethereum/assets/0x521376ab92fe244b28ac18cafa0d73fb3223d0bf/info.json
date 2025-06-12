@@ -1,0 +1,12 @@
+{
+  "name": "XSTREAM",
+  "symbol": "STRX",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x521376ab92FE244b28aC18CAfA0D73Fb3223d0bF",
+  "mint_time": "2023-07-17 05:20:47 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x521376ab92fe244b28ac18cafa0d73fb3223d0bf/logo.png",
+  "vesting_address": "0x1FaAdF3006E8e869A8812d020671B7a0A7201929",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

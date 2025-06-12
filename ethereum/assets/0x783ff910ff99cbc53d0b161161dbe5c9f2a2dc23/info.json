@@ -1,0 +1,12 @@
+{
+  "name": "DEITY",
+  "symbol": "DEITY",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x783FF910Ff99CBC53D0b161161Dbe5C9f2a2dc23",
+  "mint_time": "2022-03-01 05:12:01 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x783ff910ff99cbc53d0b161161dbe5c9f2a2dc23/logo.png",
+  "vesting_address": "0xef8F5fE4b8e93DA37bA5bB16874FA110DB6E1eeC",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Xhuman",
+  "symbol": "XHUMAN",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x40aEea2e6c280E41cb88eC05673ba6C027C9c30c",
+  "mint_time": "2019-09-23 19:44:52 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x40aeea2e6c280e41cb88ec05673ba6c027c9c30c/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

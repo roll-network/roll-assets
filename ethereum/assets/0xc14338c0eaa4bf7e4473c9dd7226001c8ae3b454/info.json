@@ -1,0 +1,12 @@
+{
+  "name": "WARP",
+  "symbol": "WARP",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xc14338C0eaa4bf7E4473C9DD7226001C8ae3B454",
+  "mint_time": "2020-06-16 06:37:54 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xc14338c0eaa4bf7e4473c9dd7226001c8ae3b454/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

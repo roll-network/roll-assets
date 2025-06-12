@@ -1,0 +1,12 @@
+{
+  "name": "MIMESIS",
+  "symbol": "MIMSIS",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x502E7E56c78438C67596F55b0302b00FF1a2ca35",
+  "mint_time": "2021-11-15 06:34:53 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x502e7e56c78438c67596f55b0302b00ff1a2ca35/logo.png",
+  "vesting_address": "0x000000000000000000000000000000000000000C",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

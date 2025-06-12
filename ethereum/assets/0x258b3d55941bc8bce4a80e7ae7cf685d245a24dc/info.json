@@ -1,0 +1,12 @@
+{
+  "name": "RareCandy",
+  "symbol": "RCDY",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x258B3D55941BC8BCE4a80e7AE7CF685D245A24dc",
+  "mint_time": "2020-04-23 01:19:54 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x258b3d55941bc8bce4a80e7ae7cf685d245a24dc/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

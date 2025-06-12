@@ -1,0 +1,12 @@
+{
+  "name": "Meeps",
+  "symbol": "MEEPS",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xE0d0Ee58499F25fE790da2AbAc44C32B0a1D589E",
+  "mint_time": "2019-10-14 20:27:01 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xe0d0ee58499f25fe790da2abac44c32b0a1d589e/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

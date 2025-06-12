@@ -1,0 +1,12 @@
+{
+  "name": "Bard",
+  "symbol": "BARD",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xe05C99fd798C09C066B87d841eCF89Dac4B4856E",
+  "mint_time": "2019-11-06 22:20:26 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xe05c99fd798c09c066b87d841ecf89dac4b4856e/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ASKNIGHTS",
+  "symbol": "ARTK",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x4795e45e2cCAcCb8e79C5845c10f919B6463fA69",
+  "mint_time": "2021-12-27 07:04:43 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x4795e45e2ccaccb8e79c5845c10f919b6463fa69/logo.png",
+  "vesting_address": "0x8d940863826Dcf85af017CcAc4094a3B0999E629",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

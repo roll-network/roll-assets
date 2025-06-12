@@ -1,0 +1,12 @@
+{
+  "name": "RelayNode",
+  "symbol": "RELAY",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x19060094373C32E7f7d95eb4d1231f0779C91c23",
+  "mint_time": "2020-06-11 18:50:29 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x19060094373c32e7f7d95eb4d1231f0779c91c23/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

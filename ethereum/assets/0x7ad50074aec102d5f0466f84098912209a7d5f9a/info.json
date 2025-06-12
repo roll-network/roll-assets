@@ -1,0 +1,12 @@
+{
+  "name": "Bali ",
+  "symbol": "BALI",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x7ad50074aec102d5F0466F84098912209a7D5F9A",
+  "mint_time": "2022-12-12 06:01:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x7ad50074aec102d5f0466f84098912209a7d5f9a/logo.png",
+  "vesting_address": "0x9ADc41A34fE71FBbF1310615D467cF15b2eEd704",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Leonard",
+  "symbol": "LENRD",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x589D5E534a11d3b2860df3b89586ce2133fcEDE9",
+  "mint_time": "2022-08-08 03:04:40 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x589d5e534a11d3b2860df3b89586ce2133fcede9/logo.png",
+  "vesting_address": "0xf262E122A14CAFD36026366C88E03F4668bC2D60",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

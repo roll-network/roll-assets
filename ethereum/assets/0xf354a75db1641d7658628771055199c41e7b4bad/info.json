@@ -1,0 +1,12 @@
+{
+  "name": "JAY",
+  "symbol": "JAY",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xf354a75DB1641D7658628771055199C41e7b4bAd",
+  "mint_time": "2020-04-15 20:49:32 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xf354a75db1641d7658628771055199c41e7b4bad/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

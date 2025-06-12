@@ -1,0 +1,12 @@
+{
+  "name": "WAFFL",
+  "symbol": "WAFFL",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x183256B67072C06516f6e585E197f6D9D80F1d0F",
+  "mint_time": "2022-10-03 11:13:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x183256b67072c06516f6e585e197f6d9d80f1d0f/logo.png",
+  "vesting_address": "0xE61C927Bb27D7181373fA4c6C9758BF10E3C2864",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

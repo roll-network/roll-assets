@@ -1,0 +1,12 @@
+{
+  "name": "New Year New Me",
+  "symbol": "NEW",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xF4B5Cf188aaD19813F876F7DE4991609B58dC532",
+  "mint_time": "2022-08-22 12:12:37 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xf4b5cf188aad19813f876f7de4991609b58dc532/logo.png",
+  "vesting_address": "0x39318c437C8cC9DF2b1769889EBd2F2b7CD948c6",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

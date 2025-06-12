@@ -1,0 +1,12 @@
+{
+  "name": "Marina Mazepa Token",
+  "symbol": "MMT",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x3c98B84992670DcD26a5f018EDedDEb58ecA8Ab0",
+  "mint_time": "2022-04-13 05:13:20 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x3c98b84992670dcd26a5f018ededdeb58eca8ab0/logo.png",
+  "vesting_address": "0x2dF5f663d03fA5CA9e58F56282D63eD4FCe2f4A5",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

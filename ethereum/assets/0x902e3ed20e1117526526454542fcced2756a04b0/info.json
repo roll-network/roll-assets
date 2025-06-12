@@ -1,0 +1,12 @@
+{
+  "name": "Null",
+  "symbol": "NULL",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x902E3ED20e1117526526454542Fcced2756A04b0",
+  "mint_time": "2021-02-25 23:37:02 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x902e3ed20e1117526526454542fcced2756a04b0/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

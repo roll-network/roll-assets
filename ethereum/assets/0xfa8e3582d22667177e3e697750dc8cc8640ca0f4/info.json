@@ -1,0 +1,12 @@
+{
+  "name": "HUEHUEHUEBR",
+  "symbol": "HUEBR",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xFA8e3582D22667177e3e697750DC8cC8640CA0F4",
+  "mint_time": "2019-12-03 21:59:38 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xfa8e3582d22667177e3e697750dc8cc8640ca0f4/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

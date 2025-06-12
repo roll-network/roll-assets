@@ -1,0 +1,12 @@
+{
+  "name": "FAAL",
+  "symbol": "FAAL",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x415Bcf1C18Df42551DB59782349B5813f2c20cB6",
+  "mint_time": "2023-03-06 15:41:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x415bcf1c18df42551db59782349b5813f2c20cb6/logo.png",
+  "vesting_address": "0x4f38c194d4C6Aa2d3DF130fa8E49af0491B4d22c",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

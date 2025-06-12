@@ -1,0 +1,12 @@
+{
+  "name": "FNA",
+  "symbol": "FNA",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x4261a1c7E64e37c7bDe40FEfFFF6880b4f4bCe4b",
+  "mint_time": "2023-03-27 14:54:47 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x4261a1c7e64e37c7bde40feffff6880b4f4bce4b/logo.png",
+  "vesting_address": "0x89977F867aAEcda26eF1C7C2E8158A46052ed804",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

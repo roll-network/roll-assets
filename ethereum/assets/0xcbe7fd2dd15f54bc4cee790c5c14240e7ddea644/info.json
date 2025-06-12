@@ -1,0 +1,12 @@
+{
+  "name": "Kipple",
+  "symbol": "KIPPLE",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xCbE7Fd2dD15f54Bc4Cee790c5c14240e7DDEA644",
+  "mint_time": "2020-04-18 00:24:52 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xcbe7fd2dd15f54bc4cee790c5c14240e7ddea644/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

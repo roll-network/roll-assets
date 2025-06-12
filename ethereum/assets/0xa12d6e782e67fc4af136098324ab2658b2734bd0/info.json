@@ -1,0 +1,12 @@
+{
+  "name": "MAZO",
+  "symbol": "MAZO",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xA12D6e782e67fC4aF136098324ab2658b2734BD0",
+  "mint_time": "2020-04-27 21:34:57 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xa12d6e782e67fc4af136098324ab2658b2734bd0/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

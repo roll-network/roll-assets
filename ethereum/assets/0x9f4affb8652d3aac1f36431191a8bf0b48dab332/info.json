@@ -1,0 +1,12 @@
+{
+  "name": "Duma",
+  "symbol": "DUMA",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x9f4AfFB8652D3AAC1F36431191a8bF0B48dab332",
+  "mint_time": "2020-07-09 19:22:07 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x9f4affb8652d3aac1f36431191a8bf0b48dab332/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

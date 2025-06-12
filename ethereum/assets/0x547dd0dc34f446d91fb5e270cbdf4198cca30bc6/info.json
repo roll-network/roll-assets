@@ -1,0 +1,12 @@
+{
+  "name": "SANDWICH",
+  "symbol": "SNDWCH",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x547Dd0DC34f446d91Fb5E270cBDf4198cCa30bC6",
+  "mint_time": "2021-02-16 05:08:57 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x547dd0dc34f446d91fb5e270cbdf4198cca30bc6/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Vitruvius20",
+  "symbol": "VIUVIU",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x65bC73de0c77B0b8D1d170491C24Ebf51062DD9F",
+  "mint_time": "2020-05-17 01:51:37 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x65bc73de0c77b0b8d1d170491c24ebf51062dd9f/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

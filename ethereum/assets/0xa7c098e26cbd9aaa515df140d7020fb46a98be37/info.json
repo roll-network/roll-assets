@@ -1,0 +1,12 @@
+{
+  "name": "OBEY",
+  "symbol": "OBEY",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xa7C098E26cbd9aAA515dF140d7020fB46a98be37",
+  "mint_time": "2021-11-10 17:24:51 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xa7c098e26cbd9aaa515df140d7020fb46a98be37/logo.png",
+  "vesting_address": "0x75261eE9D2d7817A135d54376f0761Ce0Be81c36",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

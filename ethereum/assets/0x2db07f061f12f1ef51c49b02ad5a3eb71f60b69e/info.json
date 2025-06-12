@@ -1,0 +1,12 @@
+{
+  "name": "Slaughtermelon",
+  "symbol": "MELON",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x2DB07f061f12f1Ef51C49B02Ad5A3EB71f60B69e",
+  "mint_time": "2021-02-02 04:50:51 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x2db07f061f12f1ef51c49b02ad5a3eb71f60b69e/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

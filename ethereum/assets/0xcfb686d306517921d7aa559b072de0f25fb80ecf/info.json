@@ -1,0 +1,12 @@
+{
+  "name": "Intro To Music Theory",
+  "symbol": "IMT",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xCfb686D306517921D7aa559b072De0f25FB80EcF",
+  "mint_time": "2021-02-26 00:29:13 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xcfb686d306517921d7aa559b072de0f25fb80ecf/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

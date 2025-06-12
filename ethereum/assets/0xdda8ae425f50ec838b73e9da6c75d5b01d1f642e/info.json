@@ -1,0 +1,12 @@
+{
+  "name": "MILFcoin",
+  "symbol": "MILF",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xDDa8AE425F50eC838b73E9DA6C75D5B01D1f642E",
+  "mint_time": "2020-09-20 19:51:41 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xdda8ae425f50ec838b73e9da6c75d5b01d1f642e/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

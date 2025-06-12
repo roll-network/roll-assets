@@ -1,0 +1,12 @@
+{
+  "name": "YOUNI",
+  "symbol": "YOUNI",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xf912c416fb326c499CC5EAaBeAbDB38260aBA4af",
+  "mint_time": "2022-06-07 04:22:17 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xf912c416fb326c499cc5eaabeabdb38260aba4af/logo.png",
+  "vesting_address": "0xEe2c88c1d095dD86E7c318f0752F10D93DcEf5Cf",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Wagyuu",
+  "symbol": "WAGYUU",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x7311855834457d2265cAFEe2976620E031faD8D1",
+  "mint_time": "2022-07-25 13:35:12 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x7311855834457d2265cafee2976620e031fad8d1/logo.png",
+  "vesting_address": "0x7822Fe3C59E24D8C99C5203BC7218f4304647415",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

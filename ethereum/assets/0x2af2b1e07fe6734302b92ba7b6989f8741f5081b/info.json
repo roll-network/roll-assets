@@ -1,0 +1,12 @@
+{
+  "name": "PolCoin",
+  "symbol": "POL",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x2aF2b1e07fE6734302b92ba7B6989F8741f5081b",
+  "mint_time": "2022-05-25 04:46:24 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x2af2b1e07fe6734302b92ba7b6989f8741f5081b/logo.png",
+  "vesting_address": "0xa6C63978867A113d955B5996C2BeA972cf063B12",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

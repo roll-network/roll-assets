@@ -1,0 +1,12 @@
+{
+  "name": "Better Money",
+  "symbol": "BETTER",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xA7925aA2A6e4575ab0C74D169f3BC3e03D4C319A",
+  "mint_time": "2020-10-01 01:25:58 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xa7925aa2a6e4575ab0c74d169f3bc3e03d4c319a/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

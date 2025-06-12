@@ -1,0 +1,12 @@
+{
+  "name": "Cowry",
+  "symbol": "CWRY",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x8DBc8FC8FeC2da3E26de21333F853e37F0CBf119",
+  "mint_time": "2022-10-10 19:01:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x8dbc8fc8fec2da3e26de21333f853e37f0cbf119/logo.png",
+  "vesting_address": "0x5fA2746cF11aeb8D4A0F38499e541B39Db7f890B",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

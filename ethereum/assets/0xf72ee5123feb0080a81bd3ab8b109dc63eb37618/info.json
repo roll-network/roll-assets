@@ -1,0 +1,12 @@
+{
+  "name": "Dresage",
+  "symbol": "DRESG",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xf72eE5123Feb0080a81bD3Ab8b109dC63eB37618",
+  "mint_time": "2022-01-24 05:49:09 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xf72ee5123feb0080a81bd3ab8b109dc63eb37618/logo.png",
+  "vesting_address": "0xC3203b43EE1564BA6C8c183a78396c6757431845",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

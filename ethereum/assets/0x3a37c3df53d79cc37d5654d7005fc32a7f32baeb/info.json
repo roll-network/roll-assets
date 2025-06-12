@@ -1,0 +1,12 @@
+{
+  "name": "Lumbo ",
+  "symbol": "LMBO",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x3a37c3dF53D79cC37d5654d7005fc32A7F32baEB",
+  "mint_time": "2022-10-24 05:10:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x3a37c3df53d79cc37d5654d7005fc32a7f32baeb/logo.png",
+  "vesting_address": "0x505c63c9Fc797e680Cb860801e0ba38c67bC70A9",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

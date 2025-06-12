@@ -1,0 +1,12 @@
+{
+  "name": "Initia",
+  "symbol": "INI",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xb5fDe360d9d6D4Dddf6093a39F725081F9C601ae",
+  "mint_time": "2020-12-19 04:47:32 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xb5fde360d9d6d4dddf6093a39f725081f9c601ae/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

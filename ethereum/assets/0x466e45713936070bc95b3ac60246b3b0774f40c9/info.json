@@ -1,0 +1,12 @@
+{
+  "name": "Velarde",
+  "symbol": "VEL",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x466e45713936070bC95b3AC60246B3B0774F40C9",
+  "mint_time": "2021-12-27 05:27:12 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x466e45713936070bc95b3ac60246b3b0774f40c9/logo.png",
+  "vesting_address": "0xd6dfc7D1C209aac4def8A961f4A1CC9c43472787",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

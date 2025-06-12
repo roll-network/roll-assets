@@ -1,0 +1,12 @@
+{
+  "name": "ARKE",
+  "symbol": "ARKE",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xA9248F8e40d4b9c3Ca8ebd8E07E9BCB942C616d8",
+  "mint_time": "2020-11-19 05:29:55 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xa9248f8e40d4b9c3ca8ebd8e07e9bcb942c616d8/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

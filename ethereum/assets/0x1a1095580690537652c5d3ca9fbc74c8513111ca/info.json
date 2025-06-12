@@ -1,0 +1,12 @@
+{
+  "name": "Build in Public",
+  "symbol": "BIP",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x1a1095580690537652C5d3ca9fbC74C8513111Ca",
+  "mint_time": "2023-01-16 17:41:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x1a1095580690537652c5d3ca9fbc74c8513111ca/logo.png",
+  "vesting_address": "0x21e011E23EAFbAE9aeD76f804D5211277569B7D0",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ZERO",
+  "symbol": "ZERO",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x510A104B8d3F0092185c190D210f3A1CE4FD5DcF",
+  "mint_time": "2023-03-13 14:59:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x510a104b8d3f0092185c190d210f3a1ce4fd5dcf/logo.png",
+  "vesting_address": "0x9047EC6e380E904c3BEA4A8A45E11D3C85F56EC6",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

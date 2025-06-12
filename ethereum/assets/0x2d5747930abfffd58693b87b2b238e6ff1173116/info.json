@@ -1,0 +1,12 @@
+{
+  "name": "ACTION",
+  "symbol": "ACTION",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x2d5747930aBffFD58693B87b2b238e6Ff1173116",
+  "mint_time": "2023-02-06 05:41:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x2d5747930abfffd58693b87b2b238e6ff1173116/logo.png",
+  "vesting_address": "0x56cA3E00CC9435B7683Ad109C4bc9F96Ad2db27b",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

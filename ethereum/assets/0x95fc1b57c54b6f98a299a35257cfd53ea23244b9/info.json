@@ -1,0 +1,12 @@
+{
+  "name": "Slu",
+  "symbol": "SLU",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x95FC1b57c54b6F98a299a35257cfd53EA23244b9",
+  "mint_time": "2022-10-17 14:13:47 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x95fc1b57c54b6f98a299a35257cfd53ea23244b9/logo.png",
+  "vesting_address": "0x00C66e30306879c6334117622A4192ff01eB8D86",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Creator Success Test",
+  "symbol": "CSTEST",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x4152Da9797e76E22F732Df7DBB47664f8dbb4C8A",
+  "mint_time": "2023-05-22 09:46:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x4152da9797e76e22f732df7dbb47664f8dbb4c8a/logo.png",
+  "vesting_address": "0xCD81AD6f2dCc6Bf66cD6C3f5C06f63d5ED13D8cD",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

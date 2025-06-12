@@ -1,0 +1,12 @@
+{
+  "name": " Negative Vibrations ",
+  "symbol": "NV",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x0d0e8B6C4dEE2A01662FD590fBF84F0694D401fE",
+  "mint_time": "2022-08-15 03:43:08 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x0d0e8b6c4dee2a01662fd590fbf84f0694d401fe/logo.png",
+  "vesting_address": "0xcaD5093522318702BC7A7F44c7fC438Ca3194fCD",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "CXNTCT",
+  "symbol": "CNTCT",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x02e25Fe857004a7ee11ab829e748EE8f3Bd2435e",
+  "mint_time": "2022-08-15 03:58:09 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x02e25fe857004a7ee11ab829e748ee8f3bd2435e/logo.png",
+  "vesting_address": "0x93D1aA2E16fb3D7214Ec6E5dBC825D9180643dde",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

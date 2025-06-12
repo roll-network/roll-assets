@@ -1,0 +1,12 @@
+{
+  "name": "Marc",
+  "symbol": "MARC",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x6b97CD4FD6A6Bc798a08d58BCf73932863537a90",
+  "mint_time": "2020-04-10 16:55:54 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x6b97cd4fd6a6bc798a08d58bcf73932863537a90/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Flips",
+  "symbol": "FLIPS",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x592F30fece0C299892656B4BcDb0dE076622EBE8",
+  "mint_time": "2020-05-11 01:12:23 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x592f30fece0c299892656b4bcdb0de076622ebe8/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

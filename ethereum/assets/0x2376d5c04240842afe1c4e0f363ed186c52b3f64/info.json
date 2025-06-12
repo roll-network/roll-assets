@@ -1,0 +1,12 @@
+{
+  "name": "RNA",
+  "symbol": "RNA",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x2376d5C04240842AFe1c4e0F363Ed186c52b3F64",
+  "mint_time": "2022-11-28 04:45:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x2376d5c04240842afe1c4e0f363ed186c52b3f64/logo.png",
+  "vesting_address": "0xEC33D2659994275fC069285c0a73DBD122BBF290",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

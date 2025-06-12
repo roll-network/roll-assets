@@ -1,0 +1,12 @@
+{
+  "name": "Good Luck Chuck",
+  "symbol": "CHUCK",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x839893AddEd0Ad1771f06eF384eb4540AA7e5C37",
+  "mint_time": "2022-05-25 04:35:33 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x839893added0ad1771f06ef384eb4540aa7e5c37/logo.png",
+  "vesting_address": "0x505569f1F0fD8B8ad932CED6501fB8065c5AC2Ec",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

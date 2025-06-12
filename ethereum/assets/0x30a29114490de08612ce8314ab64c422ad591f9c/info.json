@@ -1,0 +1,12 @@
+{
+  "name": "DN",
+  "symbol": "DN",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x30A29114490De08612Ce8314AB64C422Ad591F9c",
+  "mint_time": "2020-04-07 16:13:20 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x30a29114490de08612ce8314ab64c422ad591f9c/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

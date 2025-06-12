@@ -1,0 +1,12 @@
+{
+  "name": "Endymion",
+  "symbol": "EDM",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xa8e43fbAA5b6FCCb44011E5DEBd2B460f0c25baB",
+  "mint_time": "2023-06-05 07:32:23 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xa8e43fbaa5b6fccb44011e5debd2b460f0c25bab/logo.png",
+  "vesting_address": "0x67A779Eea29faC72ce75c64A21c5939E78E73796",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

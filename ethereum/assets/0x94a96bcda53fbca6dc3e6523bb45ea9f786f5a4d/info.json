@@ -1,0 +1,12 @@
+{
+  "name": "FRINGE",
+  "symbol": "FRINGE",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x94a96BcDa53FbcA6dC3e6523bb45eA9f786f5a4D",
+  "mint_time": "2022-05-25 05:09:51 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x94a96bcda53fbca6dc3e6523bb45ea9f786f5a4d/logo.png",
+  "vesting_address": "0xDdeE5A1F2036e6145ABC4aE74281969d392Fc5AD",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

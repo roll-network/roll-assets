@@ -1,0 +1,12 @@
+{
+  "name": "Buds",
+  "symbol": "BUDS",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xe3BDc497D8d96BC755Ff80d2942775F797Af0226",
+  "mint_time": "2019-11-17 04:54:49 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xe3bdc497d8d96bc755ff80d2942775f797af0226/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "DAYDREAMX",
+  "symbol": "DREAMX",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x9E9CBEF05205E34D9916adcB3eFD1BA9D7748C43",
+  "mint_time": "2023-10-02 04:35:47 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x9e9cbef05205e34d9916adcb3efd1ba9d7748c43/logo.png",
+  "vesting_address": "0xeFd9cE85cb58aa4A8B8f0f339028eEB7F539EdA4",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Live-in Care",
+  "symbol": "HLIC",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xBE77cEB1C606E2E70e857A705C347b5D036A6080",
+  "mint_time": "2023-01-16 17:36:47 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xbe77ceb1c606e2e70e857a705c347b5d036a6080/logo.png",
+  "vesting_address": "0x41E91Dad9F464A3C3d7F2A1e77DF8a7F5E9465BA",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "HERO",
+  "symbol": "HERO",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x862caA11AbE48c945D5361E80EaF19348C479240",
+  "mint_time": "2020-12-15 02:46:30 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x862caa11abe48c945d5361e80eaf19348c479240/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

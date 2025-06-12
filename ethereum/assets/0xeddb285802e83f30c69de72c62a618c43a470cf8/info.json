@@ -1,0 +1,12 @@
+{
+  "name": "GRAILS",
+  "symbol": "GRAILS",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xeDdB285802E83f30c69DE72C62A618C43a470Cf8",
+  "mint_time": "2020-11-22 20:33:09 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xeddb285802e83f30c69de72c62a618c43a470cf8/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

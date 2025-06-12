@@ -1,0 +1,12 @@
+{
+  "name": "AI",
+  "symbol": "AI",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x29Fc64D03A6fFD958a0C2A29Bd0f574E8a61C310",
+  "mint_time": "2022-07-11 01:46:46 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x29fc64d03a6ffd958a0c2a29bd0f574e8a61c310/logo.png",
+  "vesting_address": "0x2F0b1B056ff3bF25F7899Ffa657907bc64F0c58b",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

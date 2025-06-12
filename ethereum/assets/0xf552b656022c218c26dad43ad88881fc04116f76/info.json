@@ -1,0 +1,12 @@
+{
+  "name": "Mork",
+  "symbol": "MORK",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xf552b656022c218C26dAd43ad88881Fc04116F76",
+  "mint_time": "2019-12-12 15:04:21 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xf552b656022c218c26dad43ad88881fc04116f76/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

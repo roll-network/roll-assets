@@ -1,0 +1,12 @@
+{
+  "name": "SHEE Token",
+  "symbol": "SHEE9",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x57Dbd446D5700474Af7864b0B7052Ea3b13f77A9",
+  "mint_time": "2022-08-29 03:59:17 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x57dbd446d5700474af7864b0b7052ea3b13f77a9/logo.png",
+  "vesting_address": "0x99B427F1210C09305121a8EF809DeF9324476606",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Gorn",
+  "symbol": "GORN",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x5B9DeCe6E8E703BFfC25E794e6f5DfaEbd26D543",
+  "mint_time": "2020-10-05 19:31:37 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x5b9dece6e8e703bffc25e794e6f5dfaebd26d543/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

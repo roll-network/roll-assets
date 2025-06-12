@@ -1,0 +1,12 @@
+{
+  "name": "Take Up Space",
+  "symbol": "TUS",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xABe964D5a4dD42B4C82eE15144dEA0a695E51450",
+  "mint_time": "2022-03-27 03:04:30 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xabe964d5a4dd42b4c82ee15144dea0a695e51450/logo.png",
+  "vesting_address": "0xc3838d8E656921dBd38b2Cd4cB19561c46E621c6",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

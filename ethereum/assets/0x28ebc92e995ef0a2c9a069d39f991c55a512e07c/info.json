@@ -1,0 +1,12 @@
+{
+  "name": "ValorDAO",
+  "symbol": "VLR",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x28ebC92E995Ef0a2C9A069D39F991c55A512e07c",
+  "mint_time": "2020-10-09 01:57:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x28ebc92e995ef0a2c9a069d39f991c55a512e07c/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

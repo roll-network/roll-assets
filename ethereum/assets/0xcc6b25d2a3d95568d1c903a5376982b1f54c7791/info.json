@@ -1,0 +1,12 @@
+{
+  "name": "DEN",
+  "symbol": "DEN",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xCC6B25d2A3D95568d1C903a5376982b1f54c7791",
+  "mint_time": "2020-07-09 18:54:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xcc6b25d2a3d95568d1c903a5376982b1f54c7791/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

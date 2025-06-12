@@ -1,0 +1,12 @@
+{
+  "name": "Flix",
+  "symbol": "FLIX",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x0157dA8f5833D11C9a95a026d99E2B7CBc11880d",
+  "mint_time": "2020-11-16 12:34:09 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x0157da8f5833d11c9a95a026d99e2b7cbc11880d/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

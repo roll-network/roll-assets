@@ -1,0 +1,12 @@
+{
+  "name": "OD Club",
+  "symbol": "ODC",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x0B86Ebbd1DE0cC6013d38d534119db0ba9eb968A",
+  "mint_time": "2021-12-06 06:00:12 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x0b86ebbd1de0cc6013d38d534119db0ba9eb968a/logo.png",
+  "vesting_address": "0x5F1E473A140f31Fa23a18588F9c7b3918daF9590",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "OLU",
+  "symbol": "OLU",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xd0de0A40A399Fcb2e8878f6Cebc48cFB4bA1F17f",
+  "mint_time": "2023-05-08 01:40:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xd0de0a40a399fcb2e8878f6cebc48cfb4ba1f17f/logo.png",
+  "vesting_address": "0x1C91986Aa45241C8145F32F5ee53C2B66d655224",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

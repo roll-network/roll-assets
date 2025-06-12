@@ -1,0 +1,12 @@
+{
+  "name": "The COA",
+  "symbol": "COA",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x0135E00cA4Bf506B97F2561fEe11dc2C2f0D9B84",
+  "mint_time": "2022-01-31 07:15:53 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x0135e00ca4bf506b97f2561fee11dc2c2f0d9b84/logo.png",
+  "vesting_address": "0xaf48bDe790fC2027D5A753f29ACeD9b8F698FC80",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

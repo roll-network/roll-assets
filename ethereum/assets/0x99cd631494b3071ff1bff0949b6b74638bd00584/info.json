@@ -1,0 +1,12 @@
+{
+  "name": "Phoenix ",
+  "symbol": "PHX",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x99CD631494b3071FF1BFF0949B6B74638BD00584",
+  "mint_time": "2022-08-29 04:29:07 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x99cd631494b3071ff1bff0949b6b74638bd00584/logo.png",
+  "vesting_address": "0x859f3960277dcEA2e2151a3Ca74D4B49FCe96fD0",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

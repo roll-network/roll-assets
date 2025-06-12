@@ -1,0 +1,12 @@
+{
+  "name": "GRANI",
+  "symbol": "GRANI",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xe9CDd501B2CED49a36bFFdF2299321ECbeAF3515",
+  "mint_time": "2022-07-18 06:37:28 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xe9cdd501b2ced49a36bffdf2299321ecbeaf3515/logo.png",
+  "vesting_address": "0xDF824197bffE5AC2c4b5219d4340B59a1d7835f5",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "GLO",
+  "symbol": "GLO",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x88e08822aAcB3094F5c04F41C4BAD583D343319c",
+  "mint_time": "2020-04-23 20:08:51 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x88e08822aacb3094f5c04f41c4bad583d343319c/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

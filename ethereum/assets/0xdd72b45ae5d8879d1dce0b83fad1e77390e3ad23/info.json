@@ -1,0 +1,12 @@
+{
+  "name": "Nenad",
+  "symbol": "ND",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xDd72b45AE5D8879D1dCE0B83fAD1E77390e3aD23",
+  "mint_time": "2020-04-15 21:28:46 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xdd72b45ae5d8879d1dce0b83fad1e77390e3ad23/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

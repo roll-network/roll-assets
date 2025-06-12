@@ -1,0 +1,12 @@
+{
+  "name": "Central Infinite",
+  "symbol": "CENI",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xa4Ff1bfA01d4Bb13f24Cc026BEE40119Baf8fe1C",
+  "mint_time": "2022-02-10 10:07:19 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xa4ff1bfa01d4bb13f24cc026bee40119baf8fe1c/logo.png",
+  "vesting_address": "0xF3b7F6d7BB8462382C7FeA114aB8ad5bAC9760f4",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

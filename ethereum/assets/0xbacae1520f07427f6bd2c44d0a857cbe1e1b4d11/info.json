@@ -1,0 +1,12 @@
+{
+  "name": "XTINA",
+  "symbol": "XTINA",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xBaCAE1520f07427F6bD2C44D0A857CBe1e1b4D11",
+  "mint_time": "2022-02-10 09:12:47 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xbacae1520f07427f6bd2c44d0a857cbe1e1b4d11/logo.png",
+  "vesting_address": "0x57d2e6B4BB8A53F1851ce328B3EE95c9c4aEbCA3",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

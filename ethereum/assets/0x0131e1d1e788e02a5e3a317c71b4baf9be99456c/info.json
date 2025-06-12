@@ -1,0 +1,12 @@
+{
+  "name": "Mutant KKCREW ",
+  "symbol": "KKCR",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x0131E1D1E788E02a5E3a317c71b4BAf9BE99456C",
+  "mint_time": "2023-01-30 05:35:23 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x0131e1d1e788e02a5e3a317c71b4baf9be99456c/logo.png",
+  "vesting_address": "0xd7eDa743b7c9C583630B581248A65b05069113b7",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

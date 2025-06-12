@@ -1,0 +1,12 @@
+{
+  "name": "BUP",
+  "symbol": "BUP",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xD0c4b5F9bac919A78fc931a49ef710dcaD7683e2",
+  "mint_time": "2022-10-17 14:09:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xd0c4b5f9bac919a78fc931a49ef710dcad7683e2/logo.png",
+  "vesting_address": "0xAA25e6E3f474893B42B412382d8c854E92b01181",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "DVINCI",
+  "symbol": "DVINCI",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x4BF93B7F68612Cc9ADef21dEA08ef74DCF0B6a6a",
+  "mint_time": "2020-02-09 00:32:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x4bf93b7f68612cc9adef21dea08ef74dcf0b6a6a/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

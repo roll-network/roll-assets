@@ -1,0 +1,12 @@
+{
+  "name": "Stones",
+  "symbol": "STONES",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xB22950854A0A443aD97CaC440aA91E28b511d53A",
+  "mint_time": "2020-04-18 00:08:01 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xb22950854a0a443ad97cac440aa91e28b511d53a/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

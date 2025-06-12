@@ -1,0 +1,12 @@
+{
+  "name": "Dankster Coin",
+  "symbol": "DP3",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x998cBcF4Ec25657Ef4e99AF2CDe04fc577197a51",
+  "mint_time": "2023-03-20 08:00:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x998cbcf4ec25657ef4e99af2cde04fc577197a51/logo.png",
+  "vesting_address": "0x6a1BA87dDDd3daaC8a46266eB7100689c0A13DE2",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

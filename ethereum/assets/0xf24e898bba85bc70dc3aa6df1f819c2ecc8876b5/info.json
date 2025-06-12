@@ -1,0 +1,12 @@
+{
+  "name": "INK",
+  "symbol": "INK",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xf24e898bba85BC70dc3AA6DF1f819C2ECC8876B5",
+  "mint_time": "2023-01-30 05:31:47 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xf24e898bba85bc70dc3aa6df1f819c2ecc8876b5/logo.png",
+  "vesting_address": "0xB4FC4E4739089C9024D93B11aC959fA46F173663",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

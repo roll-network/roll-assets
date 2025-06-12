@@ -1,0 +1,12 @@
+{
+  "name": "HDRR",
+  "symbol": "HDRR",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xC91b81df82534eA95C547abE86db455976ce70F8",
+  "mint_time": "2020-10-17 01:52:16 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xc91b81df82534ea95c547abe86db455976ce70f8/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

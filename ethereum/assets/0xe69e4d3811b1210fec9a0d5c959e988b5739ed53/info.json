@@ -1,0 +1,12 @@
+{
+  "name": "Tommy Wilson",
+  "symbol": "TOMS",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xe69E4d3811B1210fEc9a0D5C959E988b5739ED53",
+  "mint_time": "2021-02-02 04:33:37 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xe69e4d3811b1210fec9a0d5c959e988b5739ed53/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

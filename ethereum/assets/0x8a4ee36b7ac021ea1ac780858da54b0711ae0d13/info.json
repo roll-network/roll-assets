@@ -1,0 +1,12 @@
+{
+  "name": "CaoYin",
+  "symbol": "YIN",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x8A4eE36B7AC021Ea1Ac780858da54B0711Ae0D13",
+  "mint_time": "2020-04-21 23:29:52 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x8a4ee36b7ac021ea1ac780858da54b0711ae0d13/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Rentable",
+  "symbol": "RENTA",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x56863c1A6259146fC17FBdD4Fc4e8DEBB3ddcE54",
+  "mint_time": "2021-01-23 03:17:50 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x56863c1a6259146fc17fbdd4fc4e8debb3ddce54/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

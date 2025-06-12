@@ -1,0 +1,12 @@
+{
+  "name": "Sturec ",
+  "symbol": "STUREC",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x8f1f12250DD7932b8623A42CdD58E3d9323cf6eF",
+  "mint_time": "2022-11-07 10:46:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x8f1f12250dd7932b8623a42cdd58e3d9323cf6ef/logo.png",
+  "vesting_address": "0x3a13B672339B08Cd1258AC59a8142DbBD140f797",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

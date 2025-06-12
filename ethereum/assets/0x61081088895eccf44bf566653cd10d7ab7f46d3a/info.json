@@ -1,0 +1,12 @@
+{
+  "name": "SOMOS",
+  "symbol": "SOMOS",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x61081088895EccF44BF566653CD10D7aB7f46D3a",
+  "mint_time": "2022-04-20 04:06:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x61081088895eccf44bf566653cd10d7ab7f46d3a/logo.png",
+  "vesting_address": "0x537b516C5f03433e286442757F6a5cf4F7465858",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Curt Coin",
+  "symbol": "CURT",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x0F142ED591B8196d5beddeEee401bdaA80815fba",
+  "mint_time": "2021-01-21 02:29:44 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x0f142ed591b8196d5beddeeee401bdaa80815fba/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

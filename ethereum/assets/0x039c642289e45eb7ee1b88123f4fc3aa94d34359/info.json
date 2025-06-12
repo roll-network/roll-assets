@@ -1,0 +1,12 @@
+{
+  "name": "KAMI",
+  "symbol": "KAMI",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x039c642289e45EB7eE1B88123f4fC3aa94D34359",
+  "mint_time": "2020-04-11 00:40:52 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x039c642289e45eb7ee1b88123f4fc3aa94d34359/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "OHFF",
+  "symbol": "OHFF",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xf0AaBeAcbC2D91BAf21bDA0006C9D65DE736053a",
+  "mint_time": "2020-01-08 19:06:45 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xf0aabeacbc2d91baf21bda0006c9d65de736053a/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Stronk",
+  "symbol": "STRONK",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xC5c50a10BAd212d59674e58e826ACff1FF2339fB",
+  "mint_time": "2022-09-25 17:37:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xc5c50a10bad212d59674e58e826acff1ff2339fb/logo.png",
+  "vesting_address": "0x9D84d796D0a9dd6Fb0C2eFA64E8213aEF8E8FC77",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

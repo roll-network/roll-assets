@@ -1,0 +1,12 @@
+{
+  "name": "Decentralized Producer",
+  "symbol": "DPROD",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xC83044f96a47a7C6444BA2aCdf4ADdd586AdF59C",
+  "mint_time": "2022-11-28 04:48:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xc83044f96a47a7c6444ba2acdf4addd586adf59c/logo.png",
+  "vesting_address": "0xE8b3E7303c8B8a9AAa8A4D735B9821EAF5EdF7B4",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

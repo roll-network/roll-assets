@@ -1,0 +1,12 @@
+{
+  "name": "Crypto Soltan ",
+  "symbol": "CS",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x67215398899eB20d2Be8Dc4E3e0BFaDA3C23379A",
+  "mint_time": "2022-11-21 10:58:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x67215398899eb20d2be8dc4e3e0bfada3c23379a/logo.png",
+  "vesting_address": "0xA838201E8718d12E5f8e4Acb2fe36A22B05755e1",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

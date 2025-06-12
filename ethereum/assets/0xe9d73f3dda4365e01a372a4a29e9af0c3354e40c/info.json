@@ -1,0 +1,12 @@
+{
+  "name": "Amadeo",
+  "symbol": "DEO",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xE9D73F3DdA4365e01a372a4a29E9aF0c3354e40C",
+  "mint_time": "2020-08-22 03:37:30 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xe9d73f3dda4365e01a372a4a29e9af0c3354e40c/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

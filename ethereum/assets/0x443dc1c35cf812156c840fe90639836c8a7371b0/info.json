@@ -1,0 +1,12 @@
+{
+  "name": "THANKS",
+  "symbol": "THANKS",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x443dC1c35cf812156C840Fe90639836C8a7371b0",
+  "mint_time": "2020-10-01 01:58:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x443dc1c35cf812156c840fe90639836c8a7371b0/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

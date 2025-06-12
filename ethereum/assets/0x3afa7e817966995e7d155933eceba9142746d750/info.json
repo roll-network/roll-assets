@@ -1,0 +1,12 @@
+{
+  "name": "POWER",
+  "symbol": "POWER",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x3aFa7e817966995e7D155933ECeba9142746d750",
+  "mint_time": "2021-02-07 23:29:56 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x3afa7e817966995e7d155933eceba9142746d750/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "The CEO Fund",
+  "symbol": "FUND",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x86B003bE30156433C2e4dD6D8A2Bf247BB5504eb",
+  "mint_time": "2023-03-13 14:14:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x86b003be30156433c2e4dd6d8a2bf247bb5504eb/logo.png",
+  "vesting_address": "0x7102C2C8ea623238fD84998365c98aD4EC780661",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

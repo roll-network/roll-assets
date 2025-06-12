@@ -1,0 +1,12 @@
+{
+  "name": "SUGAR",
+  "symbol": "SUGAR",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x408e405B741C7670c91438902FBD0F15F57c53d1",
+  "mint_time": "2020-04-27 22:34:31 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x408e405b741c7670c91438902fbd0f15f57c53d1/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

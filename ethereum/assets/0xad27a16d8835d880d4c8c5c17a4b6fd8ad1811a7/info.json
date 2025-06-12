@@ -1,0 +1,12 @@
+{
+  "name": "eNeFTee",
+  "symbol": "ENFTE",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xAd27A16D8835D880D4C8C5c17a4b6Fd8AD1811A7",
+  "mint_time": "2021-02-02 05:00:20 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xad27a16d8835d880d4c8c5c17a4b6fd8ad1811a7/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

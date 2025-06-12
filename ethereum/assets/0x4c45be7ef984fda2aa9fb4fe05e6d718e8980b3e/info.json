@@ -1,0 +1,12 @@
+{
+  "name": "NORN",
+  "symbol": "NORN",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x4c45Be7EF984FdA2Aa9FB4fE05E6d718e8980B3E",
+  "mint_time": "2022-09-25 17:33:47 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x4c45be7ef984fda2aa9fb4fe05e6d718e8980b3e/logo.png",
+  "vesting_address": "0xEF98b5fA182fF2d70A4aE800E730b4d21F10eb76",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

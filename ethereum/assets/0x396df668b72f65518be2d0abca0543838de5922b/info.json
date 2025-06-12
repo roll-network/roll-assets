@@ -1,0 +1,12 @@
+{
+  "name": "Holo",
+  "symbol": "HOLO",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x396df668B72F65518Be2d0aBCa0543838De5922B",
+  "mint_time": "2021-01-20 19:24:34 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x396df668b72f65518be2d0abca0543838de5922b/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

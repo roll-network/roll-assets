@@ -1,0 +1,12 @@
+{
+  "name": "Global",
+  "symbol": "GLOBAL",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x6036EBa7DBb9B951D3a40b8edbA3FE6120BC71f3",
+  "mint_time": "2020-11-20 05:44:20 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x6036eba7dbb9b951d3a40b8edba3fe6120bc71f3/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

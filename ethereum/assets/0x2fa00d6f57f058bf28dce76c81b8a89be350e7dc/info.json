@@ -1,0 +1,12 @@
+{
+  "name": "FutureFolio",
+  "symbol": "FUTR",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x2FA00D6F57F058bF28dCe76C81B8a89be350E7dc",
+  "mint_time": "2021-12-20 01:38:37 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x2fa00d6f57f058bf28dce76c81b8a89be350e7dc/logo.png",
+  "vesting_address": "0xd02086c84a70A036dB726cda4cd3845aBef8C4B8",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

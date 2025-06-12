@@ -1,0 +1,12 @@
+{
+  "name": "Fighting Comes First",
+  "symbol": "FCF",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x79024095F7D293d06D1B6e722a2cd9028Fe1A7Cd",
+  "mint_time": "2022-08-15 03:50:43 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x79024095f7d293d06d1b6e722a2cd9028fe1a7cd/logo.png",
+  "vesting_address": "0x6Fda36aFd7Fc6e870D7b6184cCF573D033806e1F",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

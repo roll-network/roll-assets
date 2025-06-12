@@ -1,0 +1,12 @@
+{
+  "name": "GGBL",
+  "symbol": "GGBL",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x31BB2973b4bDf4a78f65931A0a788a0Fd051F58D",
+  "mint_time": "2022-04-11 03:51:31 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x31bb2973b4bdf4a78f65931a0a788a0fd051f58d/logo.png",
+  "vesting_address": "0x8Ccf27c992c5583B3c7065D79e8906C8cd21B18f",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

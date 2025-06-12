@@ -1,0 +1,12 @@
+{
+  "name": "LOVER",
+  "symbol": "LOVER",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x217e3528cff4818bb63425F5162E7C9bA3A90C2a",
+  "mint_time": "2022-04-24 01:44:02 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x217e3528cff4818bb63425f5162e7c9ba3a90c2a/logo.png",
+  "vesting_address": "0x2800C15AD68c9e48AedB2F7c9E5c9c4f4C13E986",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

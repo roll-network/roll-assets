@@ -1,0 +1,12 @@
+{
+  "name": "Bobbies",
+  "symbol": "BOBBS",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x21C7F008970bFAbcCF9D44Fe7EE7e1f4A5401FEb",
+  "mint_time": "2020-10-05 19:40:51 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x21c7f008970bfabccf9d44fe7ee7e1f4a5401feb/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

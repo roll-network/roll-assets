@@ -1,0 +1,12 @@
+{
+  "name": "SEXPOP Collective",
+  "symbol": "EXPOP",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x5f9172EcEeaC7bBac9DD6A8013bfA9a30F5E5628",
+  "mint_time": "2020-10-24 22:13:58 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x5f9172eceeac7bbac9dd6a8013bfa9a30f5e5628/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

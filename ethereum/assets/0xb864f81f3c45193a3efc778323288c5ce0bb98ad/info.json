@@ -1,0 +1,12 @@
+{
+  "name": "STARZ",
+  "symbol": "STRZ",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xB864F81f3c45193A3Efc778323288C5cE0BB98AD",
+  "mint_time": "2022-09-12 03:32:47 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xb864f81f3c45193a3efc778323288c5ce0bb98ad/logo.png",
+  "vesting_address": "0xBC730472e1D5814762dAf447103d030236742378",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

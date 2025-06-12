@@ -1,0 +1,12 @@
+{
+  "name": "LIVE coin",
+  "symbol": "LIVE",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x9A1E08f70d48CD0ec2218fD32F28b9f072Fa9bF2",
+  "mint_time": "2023-08-07 13:53:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x9a1e08f70d48cd0ec2218fd32f28b9f072fa9bf2/logo.png",
+  "vesting_address": "0x5137A8c8C11024326d5E78D0B722a8f4b49A74aF",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

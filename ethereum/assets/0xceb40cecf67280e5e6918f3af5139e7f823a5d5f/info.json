@@ -1,0 +1,12 @@
+{
+  "name": "Jiho",
+  "symbol": "JIHO",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xCeb40CecF67280E5e6918F3Af5139e7f823A5d5F",
+  "mint_time": "2019-10-13 23:02:31 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xceb40cecf67280e5e6918f3af5139e7f823a5d5f/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

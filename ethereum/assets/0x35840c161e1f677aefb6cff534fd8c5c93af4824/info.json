@@ -1,0 +1,12 @@
+{
+  "name": "VESA",
+  "symbol": "VESA",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x35840c161E1F677AEfb6cFF534fd8C5C93Af4824",
+  "mint_time": "2020-05-10 18:43:17 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x35840c161e1f677aefb6cff534fd8c5c93af4824/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

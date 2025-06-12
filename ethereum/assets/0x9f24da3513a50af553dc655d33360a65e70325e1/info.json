@@ -1,0 +1,12 @@
+{
+  "name": "Love Star",
+  "symbol": "LS",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x9f24Da3513a50af553dC655d33360A65e70325E1",
+  "mint_time": "2022-08-01 08:14:04 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x9f24da3513a50af553dc655d33360a65e70325e1/logo.png",
+  "vesting_address": "0x1ef5c2e8c0fCded79F9A1022f9b063DE5192B5ef",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

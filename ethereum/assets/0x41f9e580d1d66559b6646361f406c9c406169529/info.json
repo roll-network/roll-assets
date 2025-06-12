@@ -1,0 +1,12 @@
+{
+  "name": "NFT Army",
+  "symbol": "ARMY",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x41F9e580D1d66559B6646361F406C9c406169529",
+  "mint_time": "2020-11-19 21:55:12 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x41f9e580d1d66559b6646361f406c9c406169529/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

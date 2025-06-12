@@ -1,0 +1,12 @@
+{
+  "name": "Paul Razvan Berg",
+  "symbol": "PAUL",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x8db6Da2120b346FAa7f206841f2FB005BBE0DFD8",
+  "mint_time": "2020-01-27 19:25:34 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x8db6da2120b346faa7f206841f2fb005bbe0dfd8/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

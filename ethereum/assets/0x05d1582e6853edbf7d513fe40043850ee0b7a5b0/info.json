@@ -1,0 +1,12 @@
+{
+  "name": "Blues VIP Club ",
+  "symbol": "BVIP",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x05D1582e6853edbF7D513FE40043850EE0B7a5b0",
+  "mint_time": "2022-02-10 10:12:46 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x05d1582e6853edbf7d513fe40043850ee0b7a5b0/logo.png",
+  "vesting_address": "0xAafB8633b222CF731AfFBCd2d71b073dF796C8Cf",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

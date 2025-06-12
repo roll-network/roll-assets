@@ -1,0 +1,12 @@
+{
+  "name": "Open Doors Entertainment",
+  "symbol": "ODEN",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x9f11410857C8f834dDba961EF946f55AF345e7f0",
+  "mint_time": "2021-11-04 00:17:44 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x9f11410857c8f834ddba961ef946f55af345e7f0/logo.png",
+  "vesting_address": "0x2b140E8F0c215108D0a6424518d65E826780D6Ac",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

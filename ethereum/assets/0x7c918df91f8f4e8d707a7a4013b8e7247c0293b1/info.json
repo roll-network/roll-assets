@@ -1,0 +1,12 @@
+{
+  "name": "Feathers",
+  "symbol": "FTHR",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x7C918dF91f8F4e8D707a7A4013b8e7247C0293B1",
+  "mint_time": "2020-04-06 00:28:06 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x7c918df91f8f4e8d707a7a4013b8e7247c0293b1/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

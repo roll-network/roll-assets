@@ -1,0 +1,12 @@
+{
+  "name": "AURA",
+  "symbol": "AURA",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x0748723F7337Cc3d81f830009Bc8B007130ABb4E",
+  "mint_time": "2023-04-24 08:35:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x0748723f7337cc3d81f830009bc8b007130abb4e/logo.png",
+  "vesting_address": "0x5A2A8fe0ebF64d695349757c638e10124dF68503",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

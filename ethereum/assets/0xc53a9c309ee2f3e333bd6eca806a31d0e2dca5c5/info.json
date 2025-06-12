@@ -1,0 +1,12 @@
+{
+  "name": "Play",
+  "symbol": "PLAY",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xC53a9c309Ee2F3E333BD6ecA806A31d0e2Dca5C5",
+  "mint_time": "2020-10-24 21:33:32 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xc53a9c309ee2f3e333bd6eca806a31d0e2dca5c5/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

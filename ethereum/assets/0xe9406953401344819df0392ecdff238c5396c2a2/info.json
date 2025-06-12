@@ -1,0 +1,12 @@
+{
+  "name": "Kode",
+  "symbol": "KODE",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xe9406953401344819dF0392ECdfF238C5396C2A2",
+  "mint_time": "2020-04-21 19:55:50 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xe9406953401344819df0392ecdff238c5396c2a2/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

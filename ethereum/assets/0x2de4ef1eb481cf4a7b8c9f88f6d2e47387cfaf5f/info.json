@@ -1,0 +1,12 @@
+{
+  "name": "Black",
+  "symbol": "BLACK",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x2DE4ef1Eb481cF4a7b8C9f88f6D2E47387cFAf5F",
+  "mint_time": "2020-10-25 02:34:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x2de4ef1eb481cf4a7b8c9f88f6d2e47387cfaf5f/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

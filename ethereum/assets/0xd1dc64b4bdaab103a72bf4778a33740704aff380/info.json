@@ -1,0 +1,12 @@
+{
+  "name": "Howl",
+  "symbol": "HOWL",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xD1dC64B4bDaab103A72BF4778A33740704AFf380",
+  "mint_time": "2019-09-20 20:13:43 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xd1dc64b4bdaab103a72bf4778a33740704aff380/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Jersey Gardens ",
+  "symbol": "GARDEN",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xba4A9d9b2101F1dD93F8c7728526a106B2c4af40",
+  "mint_time": "2022-08-22 12:07:32 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xba4a9d9b2101f1dd93f8c7728526a106b2c4af40/logo.png",
+  "vesting_address": "0x55b0203C7f55bd924d95C88231267d94911d625F",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Vaunker",
+  "symbol": "VAN",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x90aBeB53701C89e8d7Aca6A03d105576Ccd6386E",
+  "mint_time": "2020-07-26 22:29:09 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x90abeb53701c89e8d7aca6a03d105576ccd6386e/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

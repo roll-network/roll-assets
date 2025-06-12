@@ -1,0 +1,12 @@
+{
+  "name": "Rosegold",
+  "symbol": "RSGLD",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xd16ae9c08f434690F39Fa4C39018fbdaddFB04bB",
+  "mint_time": "2021-01-21 02:16:23 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xd16ae9c08f434690f39fa4c39018fbdaddfb04bb/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

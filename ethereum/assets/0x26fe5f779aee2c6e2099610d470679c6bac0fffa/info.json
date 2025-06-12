@@ -1,0 +1,12 @@
+{
+  "name": "Wurst",
+  "symbol": "WURST",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x26fE5f779AeE2c6E2099610d470679c6bAC0FFfA",
+  "mint_time": "2019-11-20 17:27:26 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x26fe5f779aee2c6e2099610d470679c6bac0fffa/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

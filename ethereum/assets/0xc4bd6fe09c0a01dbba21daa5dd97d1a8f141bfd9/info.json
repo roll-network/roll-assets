@@ -1,0 +1,12 @@
+{
+  "name": "Challa",
+  "symbol": "DCT",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xC4Bd6fe09c0A01Dbba21DAa5dd97D1a8f141bFd9",
+  "mint_time": "2022-09-05 04:00:34 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xc4bd6fe09c0a01dbba21daa5dd97d1a8f141bfd9/logo.png",
+  "vesting_address": "0x325acda842783A1B5b87F93f130155D4F7c8d667",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "SERC",
+  "symbol": "SERC",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x86137ff05cD05007F4Ea4c145020763985578Cf3",
+  "mint_time": "2023-05-15 01:22:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x86137ff05cd05007f4ea4c145020763985578cf3/logo.png",
+  "vesting_address": "0x4edBa6d7feE3BB3c4D7cF97fC9b448489607873E",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

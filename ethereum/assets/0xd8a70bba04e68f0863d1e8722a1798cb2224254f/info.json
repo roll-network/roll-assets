@@ -1,0 +1,12 @@
+{
+  "name": "Scary Token ",
+  "symbol": "SCARY",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xD8a70Bba04e68F0863D1E8722a1798cb2224254F",
+  "mint_time": "2022-10-31 02:29:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xd8a70bba04e68f0863d1e8722a1798cb2224254f/logo.png",
+  "vesting_address": "0xb0daB9EaB4Ab07537c96E42C3B15Bb35ef1003c9",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Achetez de l'Art",
+  "symbol": "ADLA",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xAAb2B2065989a81E9a5c56B70a4B90A753b9695e",
+  "mint_time": "2022-01-24 05:44:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xaab2b2065989a81e9a5c56b70a4b90a753b9695e/logo.png",
+  "vesting_address": "0x6FEfB3722f5d8af14FCF8588A7dA526232Ca8eF8",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

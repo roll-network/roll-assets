@@ -1,0 +1,12 @@
+{
+  "name": "Casey",
+  "symbol": "CASEY",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xfc61c3Fd8caD40c59086dFA86453d29A9362dCf4",
+  "mint_time": "2020-07-26 22:50:22 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xfc61c3fd8cad40c59086dfa86453d29a9362dcf4/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

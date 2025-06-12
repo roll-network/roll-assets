@@ -1,0 +1,12 @@
+{
+  "name": "KAIJU",
+  "symbol": "KAIJU",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x58a5d3e4873A75B07fB3c7CF477EeBc44ea73B3B",
+  "mint_time": "2020-06-30 17:39:15 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x58a5d3e4873a75b07fb3c7cf477eebc44ea73b3b/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

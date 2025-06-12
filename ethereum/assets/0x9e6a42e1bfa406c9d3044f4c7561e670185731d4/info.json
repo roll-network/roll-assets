@@ -1,0 +1,12 @@
+{
+  "name": "CHCGO Token",
+  "symbol": "CHCGO",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x9E6a42e1bfA406C9D3044F4c7561E670185731d4",
+  "mint_time": "2022-11-07 10:35:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x9e6a42e1bfa406c9d3044f4c7561e670185731d4/logo.png",
+  "vesting_address": "0x4ABb9BA86f6044480f548Bd9a9D7DF0aC2D41854",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

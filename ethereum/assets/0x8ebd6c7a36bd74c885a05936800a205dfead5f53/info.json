@@ -1,0 +1,12 @@
+{
+  "name": "Goldie Token ",
+  "symbol": "GOLDIE",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x8eBd6C7a36Bd74c885a05936800A205dFeAD5F53",
+  "mint_time": "2022-10-31 02:32:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x8ebd6c7a36bd74c885a05936800a205dfead5f53/logo.png",
+  "vesting_address": "0xD8b38E1bDbfD0c78f68B233Cfab3157753B35909",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

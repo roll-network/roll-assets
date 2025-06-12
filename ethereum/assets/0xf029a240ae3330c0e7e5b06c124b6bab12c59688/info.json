@@ -1,0 +1,12 @@
+{
+  "name": "Coins From Outer Space",
+  "symbol": "OTC",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xF029A240aE3330C0e7E5b06c124b6BAB12c59688",
+  "mint_time": "2022-10-31 02:25:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xf029a240ae3330c0e7e5b06c124b6bab12c59688/logo.png",
+  "vesting_address": "0xc07c2FDdC6eb4023c0150AC4D2364f51E2662130",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

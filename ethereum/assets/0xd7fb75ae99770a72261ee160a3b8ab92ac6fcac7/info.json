@@ -1,0 +1,12 @@
+{
+  "name": "IIME",
+  "symbol": "IIME",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xD7FB75AE99770A72261Ee160a3B8AB92aC6fCac7",
+  "mint_time": "2022-07-25 13:24:26 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xd7fb75ae99770a72261ee160a3b8ab92ac6fcac7/logo.png",
+  "vesting_address": "0xB7358125AD37436058a11f18483511D234f47357",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

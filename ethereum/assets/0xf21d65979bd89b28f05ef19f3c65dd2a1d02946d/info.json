@@ -1,0 +1,12 @@
+{
+  "name": "BloodyPercent",
+  "symbol": "BPC",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xF21D65979bD89b28f05EF19F3c65dd2A1D02946D",
+  "mint_time": "2019-10-20 19:27:09 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xf21d65979bd89b28f05ef19f3c65dd2a1d02946d/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

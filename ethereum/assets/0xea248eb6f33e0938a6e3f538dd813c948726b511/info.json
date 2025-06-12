@@ -1,0 +1,12 @@
+{
+  "name": "SIGNAL",
+  "symbol": "SIGNAL",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xEA248eB6f33e0938a6E3F538dd813c948726b511",
+  "mint_time": "2021-02-02 05:16:06 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xea248eb6f33e0938a6e3f538dd813c948726b511/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

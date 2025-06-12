@@ -1,0 +1,12 @@
+{
+  "name": "JEFF",
+  "symbol": "JEFF",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x780b869c7A3cBfC68a8743D49aE4D2B43ef640D8",
+  "mint_time": "2020-04-07 15:14:54 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x780b869c7a3cbfc68a8743d49ae4d2b43ef640d8/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

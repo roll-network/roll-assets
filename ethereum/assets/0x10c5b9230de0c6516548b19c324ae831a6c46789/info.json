@@ -1,0 +1,12 @@
+{
+  "name": "Symx",
+  "symbol": "SYMX",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x10c5B9230DE0c6516548b19c324AE831A6C46789",
+  "mint_time": "2020-04-24 00:49:49 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x10c5b9230de0c6516548b19c324ae831a6c46789/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

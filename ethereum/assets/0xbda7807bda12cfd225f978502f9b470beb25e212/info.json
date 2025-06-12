@@ -1,0 +1,12 @@
+{
+  "name": "ALOK",
+  "symbol": "ALOK",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xBda7807bDa12CfD225f978502F9b470beb25E212",
+  "mint_time": "2020-06-15 16:40:55 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xbda7807bda12cfd225f978502f9b470beb25e212/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

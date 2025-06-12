@@ -1,0 +1,12 @@
+{
+  "name": "Esty Land",
+  "symbol": "EL",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x6111FB6275b38aa84e2f0564b4772b466521E023",
+  "mint_time": "2022-08-22 12:02:31 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x6111fb6275b38aa84e2f0564b4772b466521e023/logo.png",
+  "vesting_address": "0x9A3C11CB02E6759D8830A9772C42A3cB37ac393C",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Radio TV",
+  "symbol": "RTV",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x788F37a309cEB70c2E40DC5124F14c8DD5284fa2",
+  "mint_time": "2023-08-07 13:48:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x788f37a309ceb70c2e40dc5124f14c8dd5284fa2/logo.png",
+  "vesting_address": "0x881b19cDa238837B1F1649De0DCFB0823d7620C8",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

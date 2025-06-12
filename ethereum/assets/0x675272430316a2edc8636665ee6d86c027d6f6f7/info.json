@@ -1,0 +1,12 @@
+{
+  "name": "ARKES",
+  "symbol": "ARKES",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x675272430316A2eDC8636665EE6d86c027d6F6f7",
+  "mint_time": "2021-11-10 03:08:08 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x675272430316a2edc8636665ee6d86c027d6f6f7/logo.png",
+  "vesting_address": "0x34e74d124B1DDff7b4Eded289D2194D9F0355818",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

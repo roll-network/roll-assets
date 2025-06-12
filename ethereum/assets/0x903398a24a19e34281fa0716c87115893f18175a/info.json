@@ -1,0 +1,12 @@
+{
+  "name": "Ultra",
+  "symbol": "ULTRA",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x903398a24a19E34281fa0716c87115893F18175a",
+  "mint_time": "2019-08-29 21:31:05 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x903398a24a19e34281fa0716c87115893f18175a/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

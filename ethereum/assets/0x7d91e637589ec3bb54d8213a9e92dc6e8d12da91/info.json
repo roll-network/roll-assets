@@ -1,0 +1,12 @@
+{
+  "name": "FRIENDS WITH BENEFITS",
+  "symbol": "FWB",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x7d91e637589EC3Bb54D8213a9e92Dc6E8D12da91",
+  "mint_time": "2020-08-31 19:43:41 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x7d91e637589ec3bb54d8213a9e92dc6e8d12da91/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

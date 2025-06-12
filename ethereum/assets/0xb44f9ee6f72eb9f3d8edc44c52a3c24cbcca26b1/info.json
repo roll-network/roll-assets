@@ -1,0 +1,12 @@
+{
+  "name": "ZDM coin",
+  "symbol": "ZDM",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xb44f9eE6f72EB9f3D8EDc44C52A3c24cBccA26b1",
+  "mint_time": "2022-10-24 04:46:47 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xb44f9ee6f72eb9f3d8edc44c52a3c24cbcca26b1/logo.png",
+  "vesting_address": "0x13265b2F9f7B4A8B95e4A2471A99001d27C977A6",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

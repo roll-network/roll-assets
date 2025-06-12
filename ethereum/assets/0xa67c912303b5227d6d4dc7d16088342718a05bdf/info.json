@@ -1,0 +1,12 @@
+{
+  "name": "Gemx",
+  "symbol": "GMX",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xA67C912303b5227D6D4Dc7d16088342718a05bdf",
+  "mint_time": "2020-03-18 18:37:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xa67c912303b5227d6d4dc7d16088342718a05bdf/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "YOYO",
+  "symbol": "YOYO",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x419F0b136F0E343B221c555a804aB01a1fD835De",
+  "mint_time": "2022-03-01 05:14:33 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x419f0b136f0e343b221c555a804ab01a1fd835de/logo.png",
+  "vesting_address": "0xC3A7D78979e90Ceee9feF7d1F985508E8B074261",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "PTown Access Token",
+  "symbol": "PXTC",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xDcFb65b2b6380009E20ebd9532bA7eB9C3C04845",
+  "mint_time": "2022-03-21 04:39:46 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xdcfb65b2b6380009e20ebd9532ba7eb9c3c04845/logo.png",
+  "vesting_address": "0x9AF08b622067500acd138D4686F76bcE3E62F2c5",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

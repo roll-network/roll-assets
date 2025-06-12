@@ -1,0 +1,12 @@
+{
+  "name": "Barn",
+  "symbol": "BARN",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xE97aD11aF938b3aa5c2Aa3e8958b2a11C80a5867",
+  "mint_time": "2021-11-29 04:11:29 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xe97ad11af938b3aa5c2aa3e8958b2a11c80a5867/logo.png",
+  "vesting_address": "0xD75defBeB1DdbF2CE19c45ABDF40CF4E70b209C8",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

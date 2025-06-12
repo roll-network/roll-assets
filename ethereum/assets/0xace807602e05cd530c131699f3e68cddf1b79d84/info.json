@@ -1,0 +1,12 @@
+{
+  "name": "JAH",
+  "symbol": "JAH",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xaCe807602e05Cd530C131699f3E68cDDF1B79D84",
+  "mint_time": "2023-05-01 05:13:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xace807602e05cd530c131699f3e68cddf1b79d84/logo.png",
+  "vesting_address": "0x6c719BBBE77871C4B50cD7Cd69ec0Dd713688001",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

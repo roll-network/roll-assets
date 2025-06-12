@@ -1,0 +1,12 @@
+{
+  "name": "SUS",
+  "symbol": "SUS",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xC31296B3e84fF18893a14cE1b6D7E683d6608Eb5",
+  "mint_time": "2019-12-06 04:57:12 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xc31296b3e84ff18893a14ce1b6d7e683d6608eb5/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

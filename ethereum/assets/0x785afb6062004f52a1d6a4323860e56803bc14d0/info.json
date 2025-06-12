@@ -1,0 +1,12 @@
+{
+  "name": "Kangdom",
+  "symbol": "KANGG",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x785AfB6062004F52A1d6A4323860e56803bc14D0",
+  "mint_time": "2019-11-05 20:24:27 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x785afb6062004f52a1d6a4323860e56803bc14d0/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ReelTV",
+  "symbol": "REEL",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x666fB5aA9C496be79397ac1661e6Ed214B01176A",
+  "mint_time": "2022-10-24 05:01:23 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x666fb5aa9c496be79397ac1661e6ed214b01176a/logo.png",
+  "vesting_address": "0xad049ea7D3F7fbf49968EeAD6F33C1E867d042C8",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

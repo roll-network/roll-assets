@@ -1,0 +1,12 @@
+{
+  "name": "Daniell Mesquita",
+  "symbol": "DANI",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xFdB655EDff5c7e733074a739B2b713B5CF567a8A",
+  "mint_time": "2020-06-20 20:54:57 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xfdb655edff5c7e733074a739b2b713b5cf567a8a/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

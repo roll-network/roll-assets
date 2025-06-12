@@ -1,0 +1,12 @@
+{
+  "name": "NEETBucks",
+  "symbol": "NEET",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x81C31e61F9FFDB5e0aBED8837fDe875135e8a0Ae",
+  "mint_time": "2019-11-21 20:39:33 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x81c31e61f9ffdb5e0abed8837fde875135e8a0ae/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

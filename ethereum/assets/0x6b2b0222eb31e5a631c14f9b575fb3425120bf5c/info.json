@@ -1,0 +1,12 @@
+{
+  "name": "Iverson Exchange",
+  "symbol": "IVES",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x6b2B0222EB31E5a631c14f9b575FB3425120bf5C",
+  "mint_time": "2021-01-30 05:04:15 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x6b2b0222eb31e5a631c14f9b575fb3425120bf5c/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

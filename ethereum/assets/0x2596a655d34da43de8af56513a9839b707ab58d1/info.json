@@ -1,0 +1,12 @@
+{
+  "name": "YomaArt",
+  "symbol": "YOMA",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x2596A655d34Da43De8Af56513A9839B707ab58d1",
+  "mint_time": "2023-02-20 05:30:11 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x2596a655d34da43de8af56513a9839b707ab58d1/logo.png",
+  "vesting_address": "0x902a78FbD689Fc27b7372d68BbfA56054F4bAfdd",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

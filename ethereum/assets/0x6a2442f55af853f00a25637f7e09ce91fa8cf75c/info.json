@@ -1,0 +1,12 @@
+{
+  "name": "Aesthetic",
+  "symbol": "AEST",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x6A2442f55Af853F00a25637F7E09ce91fA8Cf75c",
+  "mint_time": "2020-04-06 16:57:12 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x6a2442f55af853f00a25637f7e09ce91fa8cf75c/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

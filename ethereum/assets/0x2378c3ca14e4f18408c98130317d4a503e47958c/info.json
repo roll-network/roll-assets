@@ -1,0 +1,12 @@
+{
+  "name": "AMBER",
+  "symbol": "AMBER",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x2378C3cA14E4F18408C98130317d4a503e47958c",
+  "mint_time": "2023-01-30 05:39:47 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x2378c3ca14e4f18408c98130317d4a503e47958c/logo.png",
+  "vesting_address": "0xfFF86aE7C8303Cec850D256fF59B1F6c08888CA3",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

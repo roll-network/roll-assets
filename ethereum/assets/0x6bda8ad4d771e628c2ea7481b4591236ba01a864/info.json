@@ -1,0 +1,12 @@
+{
+  "name": "INFWEE",
+  "symbol": "INFWEE",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x6BDA8ad4D771e628C2Ea7481b4591236bA01A864",
+  "mint_time": "2020-07-30 00:49:53 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x6bda8ad4d771e628c2ea7481b4591236ba01a864/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

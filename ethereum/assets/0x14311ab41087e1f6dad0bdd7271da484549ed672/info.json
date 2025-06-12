@@ -1,0 +1,12 @@
+{
+  "name": "LAB",
+  "symbol": "LAB",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x14311Ab41087e1F6dAd0bDD7271dA484549eD672",
+  "mint_time": "2022-09-12 03:30:09 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x14311ab41087e1f6dad0bdd7271da484549ed672/logo.png",
+  "vesting_address": "0xa9dfe8526CCc480d3c3Dba7e071E51734783Eb6B",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

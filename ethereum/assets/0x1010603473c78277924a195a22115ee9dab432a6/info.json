@@ -1,0 +1,12 @@
+{
+  "name": "Nifty",
+  "symbol": "NIFTY",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x1010603473C78277924A195A22115Ee9daB432a6",
+  "mint_time": "2020-01-30 13:41:35 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x1010603473c78277924a195a22115ee9dab432a6/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

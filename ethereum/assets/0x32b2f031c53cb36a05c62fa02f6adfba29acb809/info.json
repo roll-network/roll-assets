@@ -1,0 +1,12 @@
+{
+  "name": "MAYA",
+  "symbol": "MAYA",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x32b2f031c53cB36A05C62Fa02F6ADFbA29aCb809",
+  "mint_time": "2022-06-07 04:32:31 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x32b2f031c53cb36a05c62fa02f6adfba29acb809/logo.png",
+  "vesting_address": "0x86ccFfcae05d943059455F05F08bDd46c07800b0",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

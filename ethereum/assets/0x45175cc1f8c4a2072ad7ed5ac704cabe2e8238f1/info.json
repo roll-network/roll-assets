@@ -1,0 +1,12 @@
+{
+  "name": "Comme Ca",
+  "symbol": "CMCA",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x45175CC1F8c4A2072Ad7ed5AC704cabe2e8238f1",
+  "mint_time": "2022-03-21 04:35:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x45175cc1f8c4a2072ad7ed5ac704cabe2e8238f1/logo.png",
+  "vesting_address": "0xED8fF98711cd2c731D720bebE6a98315a862f34F",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

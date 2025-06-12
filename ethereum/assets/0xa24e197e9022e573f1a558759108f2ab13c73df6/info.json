@@ -1,0 +1,12 @@
+{
+  "name": "1Q9X",
+  "symbol": "1Q9X",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xA24E197E9022e573f1a558759108F2ab13c73dF6",
+  "mint_time": "2022-04-13 05:16:42 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xa24e197e9022e573f1a558759108f2ab13c73df6/logo.png",
+  "vesting_address": "0xaDAB346D68675De3adA8DC28C7Cdee80Cb6cBE75",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

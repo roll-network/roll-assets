@@ -1,0 +1,12 @@
+{
+  "name": "DAO Research Token",
+  "symbol": "DRD1",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x05175b586A2fe6516E42F2461D3A9D14ae2c56A0",
+  "mint_time": "2022-10-24 04:54:47 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x05175b586a2fe6516e42f2461d3a9d14ae2c56a0/logo.png",
+  "vesting_address": "0xB830E13c934ADf17F07e8a19B67f4b5BF65812E7",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

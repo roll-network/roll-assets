@@ -1,0 +1,12 @@
+{
+  "name": "HiveMind",
+  "symbol": "HIVED",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x24eBA89651aa88810924D4669256Bb56832902fe",
+  "mint_time": "2019-12-07 00:45:25 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x24eba89651aa88810924d4669256bb56832902fe/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "AARON",
+  "symbol": "AARON",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xd6f4815213D6212Bd2B0ec80F2df084e5B9dbDAb",
+  "mint_time": "2020-06-26 05:37:04 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xd6f4815213d6212bd2b0ec80f2df084e5b9dbdab/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

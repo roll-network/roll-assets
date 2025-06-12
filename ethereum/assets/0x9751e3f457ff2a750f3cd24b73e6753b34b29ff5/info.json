@@ -1,0 +1,12 @@
+{
+  "name": "Jesse Johnson Coaching",
+  "symbol": "JJC",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x9751e3F457FF2a750f3CD24b73E6753B34B29Ff5",
+  "mint_time": "2022-09-05 03:42:21 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x9751e3f457ff2a750f3cd24b73e6753b34b29ff5/logo.png",
+  "vesting_address": "0xE8eB727bF56A5845ce0f6A6f52121Ba8B7Fa40B3",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Roganzola",
+  "symbol": "ROGUE",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0xAA34bF1fD22a8537eCF3dec57C8a63B1E7385e82",
+  "mint_time": "2020-06-16 05:33:47 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xaa34bf1fd22a8537ecf3dec57c8a63b1e7385e82/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

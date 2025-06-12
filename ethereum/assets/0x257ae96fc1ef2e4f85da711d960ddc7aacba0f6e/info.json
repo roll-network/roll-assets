@@ -1,0 +1,12 @@
+{
+  "name": "Mischief",
+  "symbol": "MSCHF",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x257AE96Fc1ef2e4f85Da711d960ddC7AaCBA0f6e",
+  "mint_time": "2020-12-19 04:29:40 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x257ae96fc1ef2e4f85da711d960ddc7aacba0f6e/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}

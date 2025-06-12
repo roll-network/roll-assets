@@ -1,0 +1,12 @@
+{
+  "name": "oCH0NK",
+  "symbol": "OCH0NK",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x7bB4C084AAF67584111BA37cAb124cE30C065403",
+  "mint_time": "2023-10-02 04:30:59 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x7bb4c084aaf67584111ba37cab124ce30c065403/logo.png",
+  "vesting_address": "0xe579527038061170B295A8AF2962347A457D8f37",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

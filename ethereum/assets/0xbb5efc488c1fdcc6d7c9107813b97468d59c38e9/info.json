@@ -1,0 +1,12 @@
+{
+  "name": "Camtrao",
+  "symbol": "CT",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xbB5EFC488C1FdcC6d7c9107813b97468D59C38E9",
+  "mint_time": "2022-09-05 03:46:46 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xbb5efc488c1fdcc6d7c9107813b97468d59c38e9/logo.png",
+  "vesting_address": "0x51A8228b563c52A0864c3771eAe0650Fd8bF061D",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

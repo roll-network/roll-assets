@@ -1,0 +1,12 @@
+{
+  "name": "AndjelaNadja",
+  "symbol": "AIN",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0x8BDfaE0F83a03F5fa98B0bDf339F56df3C9F8BD5",
+  "mint_time": "2021-12-09 05:10:44 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x8bdfae0f83a03f5fa98b0bdf339f56df3c9f8bd5/logo.png",
+  "vesting_address": "0xfB4409edE9451F61F285293cA926aFe6627090ad",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Stonefrenge",
+  "symbol": "IRIE",
+  "decimals": 18,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "10000000000000000000000000",
+  "contract_address": "0xf35Adbe9cd02e015FdCa4A2A9b486fb988DDee05",
+  "mint_time": "2022-10-24 04:57:23 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0xf35adbe9cd02e015fdca4a2a9b486fb988ddee05/logo.png",
+  "vesting_address": "0xf6577E785e841Ad055974164fb526BaDD12B5b54",
+  "factory_contract": "0xa0ef35e8ddffdd5c7fcc2e3faa364c792e32abc5"
+}

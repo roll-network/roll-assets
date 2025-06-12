@@ -1,0 +1,12 @@
+{
+  "name": "SCOTT",
+  "symbol": "SCOTT",
+  "decimals": 4,
+  "total_supply": "10000000",
+  "total_supply_in_wei": "100000000000",
+  "contract_address": "0x27fD686Db10E0aE047fe8FE1DE9830C0e0dC3CFA",
+  "mint_time": "2020-01-08 19:30:41 +0000 UTC",
+  "logo": "https://raw.githubusercontent.com/roll-assets/ethereum/main/assets/0x27fd686db10e0ae047fe8fe1de9830c0e0dc3cfa/logo.png",
+  "vesting_address": "",
+  "factory_contract": "0xdf65f4e6f2e9436bc1de1e00661c7108290e8bd3"
+}
