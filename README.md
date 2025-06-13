@@ -29,4 +29,4 @@ This document lists all the smart contracts used for Roll token minting and vest
 
 ## How to Use
 
-- Refer to the `info.json` files under `ethereum/assets/<token_contract_address>` to see which version was used to mint a token.
+- Refer to the `info.json` files under `ethereum/assets/<token_contract_address>` or refer csv to see which version was used to mint a token.
